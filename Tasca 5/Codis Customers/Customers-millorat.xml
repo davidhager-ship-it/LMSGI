@@ -1,0 +1,4918 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Customers_a_HTML.xsl"?>
+<listado_clientes>
+   <cliente>
+      <id>103</id>
+      <empresa>Atelier graphique</empresa>
+      <contacto>
+         <nombre>Carine </nombre>
+         <apellido>Schmitt</apellido>
+         <telefono>40.32.2555</telefono>
+      </contacto>
+      <direccion>
+         <calle>54, rue Royale</calle>
+         <ciudad>Nantes</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>21000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>103</id>
+      <empresa>Atelier graphique</empresa>
+      <contacto>
+         <nombre>Carine </nombre>
+         <apellido>Schmitt</apellido>
+         <telefono>40.32.2555</telefono>
+      </contacto>
+      <direccion>
+         <calle>54, rue Royale</calle>
+         <ciudad>Nantes</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>21000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>103</id>
+      <empresa>Atelier graphique</empresa>
+      <contacto>
+         <nombre>Carine </nombre>
+         <apellido>Schmitt</apellido>
+         <telefono>40.32.2555</telefono>
+      </contacto>
+      <direccion>
+         <calle>54, rue Royale</calle>
+         <ciudad>Nantes</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>21000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>112</id>
+      <empresa>Signal Gift Stores</empresa>
+      <contacto>
+         <nombre>Jean</nombre>
+         <apellido>King</apellido>
+         <telefono>7025551838</telefono>
+      </contacto>
+      <direccion>
+         <calle>8489 Strong St.</calle>
+         <ciudad>Las Vegas</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1166</vendedor_id>
+         <limite_credito>71800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>112</id>
+      <empresa>Signal Gift Stores</empresa>
+      <contacto>
+         <nombre>Jean</nombre>
+         <apellido>King</apellido>
+         <telefono>7025551838</telefono>
+      </contacto>
+      <direccion>
+         <calle>8489 Strong St.</calle>
+         <ciudad>Las Vegas</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1166</vendedor_id>
+         <limite_credito>71800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>112</id>
+      <empresa>Signal Gift Stores</empresa>
+      <contacto>
+         <nombre>Jean</nombre>
+         <apellido>King</apellido>
+         <telefono>7025551838</telefono>
+      </contacto>
+      <direccion>
+         <calle>8489 Strong St.</calle>
+         <ciudad>Las Vegas</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1166</vendedor_id>
+         <limite_credito>71800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>114</id>
+      <empresa>Australian Collectors, Co.</empresa>
+      <contacto>
+         <nombre>Peter</nombre>
+         <apellido>Ferguson</apellido>
+         <telefono>03 9520 4555</telefono>
+      </contacto>
+      <direccion>
+         <calle>636 St Kilda Road</calle>
+         <ciudad>Melbourne</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>117300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>114</id>
+      <empresa>Australian Collectors, Co.</empresa>
+      <contacto>
+         <nombre>Peter</nombre>
+         <apellido>Ferguson</apellido>
+         <telefono>03 9520 4555</telefono>
+      </contacto>
+      <direccion>
+         <calle>636 St Kilda Road</calle>
+         <ciudad>Melbourne</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>117300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>114</id>
+      <empresa>Australian Collectors, Co.</empresa>
+      <contacto>
+         <nombre>Peter</nombre>
+         <apellido>Ferguson</apellido>
+         <telefono>03 9520 4555</telefono>
+      </contacto>
+      <direccion>
+         <calle>636 St Kilda Road</calle>
+         <ciudad>Melbourne</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>117300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>114</id>
+      <empresa>Australian Collectors, Co.</empresa>
+      <contacto>
+         <nombre>Peter</nombre>
+         <apellido>Ferguson</apellido>
+         <telefono>03 9520 4555</telefono>
+      </contacto>
+      <direccion>
+         <calle>636 St Kilda Road</calle>
+         <ciudad>Melbourne</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>117300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>119</id>
+      <empresa>La Rochelle Gifts</empresa>
+      <contacto>
+         <nombre>Janine </nombre>
+         <apellido>Labrune</apellido>
+         <telefono>40.67.8555</telefono>
+      </contacto>
+      <direccion>
+         <calle>67, rue des Cinquante Otages</calle>
+         <ciudad>Nantes</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>118200.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>119</id>
+      <empresa>La Rochelle Gifts</empresa>
+      <contacto>
+         <nombre>Janine </nombre>
+         <apellido>Labrune</apellido>
+         <telefono>40.67.8555</telefono>
+      </contacto>
+      <direccion>
+         <calle>67, rue des Cinquante Otages</calle>
+         <ciudad>Nantes</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>118200.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>119</id>
+      <empresa>La Rochelle Gifts</empresa>
+      <contacto>
+         <nombre>Janine </nombre>
+         <apellido>Labrune</apellido>
+         <telefono>40.67.8555</telefono>
+      </contacto>
+      <direccion>
+         <calle>67, rue des Cinquante Otages</calle>
+         <ciudad>Nantes</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>118200.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>121</id>
+      <empresa>Baane Mini Imports</empresa>
+      <contacto>
+         <nombre>Jonas </nombre>
+         <apellido>Bergulfsen</apellido>
+         <telefono>07-98 9555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Erling Skakkes gate 78</calle>
+         <ciudad>Stavern</ciudad>
+         <pais>Norway</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>81700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>121</id>
+      <empresa>Baane Mini Imports</empresa>
+      <contacto>
+         <nombre>Jonas </nombre>
+         <apellido>Bergulfsen</apellido>
+         <telefono>07-98 9555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Erling Skakkes gate 78</calle>
+         <ciudad>Stavern</ciudad>
+         <pais>Norway</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>81700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>121</id>
+      <empresa>Baane Mini Imports</empresa>
+      <contacto>
+         <nombre>Jonas </nombre>
+         <apellido>Bergulfsen</apellido>
+         <telefono>07-98 9555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Erling Skakkes gate 78</calle>
+         <ciudad>Stavern</ciudad>
+         <pais>Norway</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>81700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>121</id>
+      <empresa>Baane Mini Imports</empresa>
+      <contacto>
+         <nombre>Jonas </nombre>
+         <apellido>Bergulfsen</apellido>
+         <telefono>07-98 9555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Erling Skakkes gate 78</calle>
+         <ciudad>Stavern</ciudad>
+         <pais>Norway</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>81700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>124</id>
+      <empresa>Mini Gifts Distributors Ltd.</empresa>
+      <contacto>
+         <nombre>Susan</nombre>
+         <apellido>Nelson</apellido>
+         <telefono>4155551450</telefono>
+      </contacto>
+      <direccion>
+         <calle>5677 Strong St.</calle>
+         <ciudad>San Rafael</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>210500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>124</id>
+      <empresa>Mini Gifts Distributors Ltd.</empresa>
+      <contacto>
+         <nombre>Susan</nombre>
+         <apellido>Nelson</apellido>
+         <telefono>4155551450</telefono>
+      </contacto>
+      <direccion>
+         <calle>5677 Strong St.</calle>
+         <ciudad>San Rafael</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>210500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>124</id>
+      <empresa>Mini Gifts Distributors Ltd.</empresa>
+      <contacto>
+         <nombre>Susan</nombre>
+         <apellido>Nelson</apellido>
+         <telefono>4155551450</telefono>
+      </contacto>
+      <direccion>
+         <calle>5677 Strong St.</calle>
+         <ciudad>San Rafael</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>210500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>124</id>
+      <empresa>Mini Gifts Distributors Ltd.</empresa>
+      <contacto>
+         <nombre>Susan</nombre>
+         <apellido>Nelson</apellido>
+         <telefono>4155551450</telefono>
+      </contacto>
+      <direccion>
+         <calle>5677 Strong St.</calle>
+         <ciudad>San Rafael</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>210500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>124</id>
+      <empresa>Mini Gifts Distributors Ltd.</empresa>
+      <contacto>
+         <nombre>Susan</nombre>
+         <apellido>Nelson</apellido>
+         <telefono>4155551450</telefono>
+      </contacto>
+      <direccion>
+         <calle>5677 Strong St.</calle>
+         <ciudad>San Rafael</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>210500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>124</id>
+      <empresa>Mini Gifts Distributors Ltd.</empresa>
+      <contacto>
+         <nombre>Susan</nombre>
+         <apellido>Nelson</apellido>
+         <telefono>4155551450</telefono>
+      </contacto>
+      <direccion>
+         <calle>5677 Strong St.</calle>
+         <ciudad>San Rafael</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>210500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>124</id>
+      <empresa>Mini Gifts Distributors Ltd.</empresa>
+      <contacto>
+         <nombre>Susan</nombre>
+         <apellido>Nelson</apellido>
+         <telefono>4155551450</telefono>
+      </contacto>
+      <direccion>
+         <calle>5677 Strong St.</calle>
+         <ciudad>San Rafael</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>210500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>124</id>
+      <empresa>Mini Gifts Distributors Ltd.</empresa>
+      <contacto>
+         <nombre>Susan</nombre>
+         <apellido>Nelson</apellido>
+         <telefono>4155551450</telefono>
+      </contacto>
+      <direccion>
+         <calle>5677 Strong St.</calle>
+         <ciudad>San Rafael</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>210500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>124</id>
+      <empresa>Mini Gifts Distributors Ltd.</empresa>
+      <contacto>
+         <nombre>Susan</nombre>
+         <apellido>Nelson</apellido>
+         <telefono>4155551450</telefono>
+      </contacto>
+      <direccion>
+         <calle>5677 Strong St.</calle>
+         <ciudad>San Rafael</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>210500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>128</id>
+      <empresa>Blauer See Auto, Co.</empresa>
+      <contacto>
+         <nombre>Roland</nombre>
+         <apellido>Keitel</apellido>
+         <telefono>+49 69 66 90 2555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Lyonerstr. 34</calle>
+         <ciudad>Frankfurt</ciudad>
+         <pais>Germany</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>59700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>128</id>
+      <empresa>Blauer See Auto, Co.</empresa>
+      <contacto>
+         <nombre>Roland</nombre>
+         <apellido>Keitel</apellido>
+         <telefono>+49 69 66 90 2555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Lyonerstr. 34</calle>
+         <ciudad>Frankfurt</ciudad>
+         <pais>Germany</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>59700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>128</id>
+      <empresa>Blauer See Auto, Co.</empresa>
+      <contacto>
+         <nombre>Roland</nombre>
+         <apellido>Keitel</apellido>
+         <telefono>+49 69 66 90 2555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Lyonerstr. 34</calle>
+         <ciudad>Frankfurt</ciudad>
+         <pais>Germany</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>59700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>128</id>
+      <empresa>Blauer See Auto, Co.</empresa>
+      <contacto>
+         <nombre>Roland</nombre>
+         <apellido>Keitel</apellido>
+         <telefono>+49 69 66 90 2555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Lyonerstr. 34</calle>
+         <ciudad>Frankfurt</ciudad>
+         <pais>Germany</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>59700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>129</id>
+      <empresa>Mini Wheels Co.</empresa>
+      <contacto>
+         <nombre>Julie</nombre>
+         <apellido>Murphy</apellido>
+         <telefono>6505555787</telefono>
+      </contacto>
+      <direccion>
+         <calle>5557 North Pendale Street</calle>
+         <ciudad>San Francisco</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>64600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>129</id>
+      <empresa>Mini Wheels Co.</empresa>
+      <contacto>
+         <nombre>Julie</nombre>
+         <apellido>Murphy</apellido>
+         <telefono>6505555787</telefono>
+      </contacto>
+      <direccion>
+         <calle>5557 North Pendale Street</calle>
+         <ciudad>San Francisco</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>64600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>129</id>
+      <empresa>Mini Wheels Co.</empresa>
+      <contacto>
+         <nombre>Julie</nombre>
+         <apellido>Murphy</apellido>
+         <telefono>6505555787</telefono>
+      </contacto>
+      <direccion>
+         <calle>5557 North Pendale Street</calle>
+         <ciudad>San Francisco</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>64600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>131</id>
+      <empresa>Land of Toys Inc.</empresa>
+      <contacto>
+         <nombre>Kwai</nombre>
+         <apellido>Lee</apellido>
+         <telefono>2125557818</telefono>
+      </contacto>
+      <direccion>
+         <calle>897 Long Airport Avenue</calle>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>114900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>131</id>
+      <empresa>Land of Toys Inc.</empresa>
+      <contacto>
+         <nombre>Kwai</nombre>
+         <apellido>Lee</apellido>
+         <telefono>2125557818</telefono>
+      </contacto>
+      <direccion>
+         <calle>897 Long Airport Avenue</calle>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>114900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>131</id>
+      <empresa>Land of Toys Inc.</empresa>
+      <contacto>
+         <nombre>Kwai</nombre>
+         <apellido>Lee</apellido>
+         <telefono>2125557818</telefono>
+      </contacto>
+      <direccion>
+         <calle>897 Long Airport Avenue</calle>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>114900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>141</id>
+      <empresa>Euro+ Shopping Channel</empresa>
+      <contacto>
+         <nombre>Diego </nombre>
+         <apellido>Freyre</apellido>
+         <telefono>(91) 555 94 44</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Moralzarzal, 86</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>227600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>141</id>
+      <empresa>Euro+ Shopping Channel</empresa>
+      <contacto>
+         <nombre>Diego </nombre>
+         <apellido>Freyre</apellido>
+         <telefono>(91) 555 94 44</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Moralzarzal, 86</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>227600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>141</id>
+      <empresa>Euro+ Shopping Channel</empresa>
+      <contacto>
+         <nombre>Diego </nombre>
+         <apellido>Freyre</apellido>
+         <telefono>(91) 555 94 44</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Moralzarzal, 86</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>227600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>141</id>
+      <empresa>Euro+ Shopping Channel</empresa>
+      <contacto>
+         <nombre>Diego </nombre>
+         <apellido>Freyre</apellido>
+         <telefono>(91) 555 94 44</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Moralzarzal, 86</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>227600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>141</id>
+      <empresa>Euro+ Shopping Channel</empresa>
+      <contacto>
+         <nombre>Diego </nombre>
+         <apellido>Freyre</apellido>
+         <telefono>(91) 555 94 44</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Moralzarzal, 86</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>227600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>141</id>
+      <empresa>Euro+ Shopping Channel</empresa>
+      <contacto>
+         <nombre>Diego </nombre>
+         <apellido>Freyre</apellido>
+         <telefono>(91) 555 94 44</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Moralzarzal, 86</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>227600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>141</id>
+      <empresa>Euro+ Shopping Channel</empresa>
+      <contacto>
+         <nombre>Diego </nombre>
+         <apellido>Freyre</apellido>
+         <telefono>(91) 555 94 44</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Moralzarzal, 86</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>227600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>141</id>
+      <empresa>Euro+ Shopping Channel</empresa>
+      <contacto>
+         <nombre>Diego </nombre>
+         <apellido>Freyre</apellido>
+         <telefono>(91) 555 94 44</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Moralzarzal, 86</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>227600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>141</id>
+      <empresa>Euro+ Shopping Channel</empresa>
+      <contacto>
+         <nombre>Diego </nombre>
+         <apellido>Freyre</apellido>
+         <telefono>(91) 555 94 44</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Moralzarzal, 86</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>227600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>141</id>
+      <empresa>Euro+ Shopping Channel</empresa>
+      <contacto>
+         <nombre>Diego </nombre>
+         <apellido>Freyre</apellido>
+         <telefono>(91) 555 94 44</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Moralzarzal, 86</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>227600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>141</id>
+      <empresa>Euro+ Shopping Channel</empresa>
+      <contacto>
+         <nombre>Diego </nombre>
+         <apellido>Freyre</apellido>
+         <telefono>(91) 555 94 44</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Moralzarzal, 86</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>227600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>141</id>
+      <empresa>Euro+ Shopping Channel</empresa>
+      <contacto>
+         <nombre>Diego </nombre>
+         <apellido>Freyre</apellido>
+         <telefono>(91) 555 94 44</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Moralzarzal, 86</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>227600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>141</id>
+      <empresa>Euro+ Shopping Channel</empresa>
+      <contacto>
+         <nombre>Diego </nombre>
+         <apellido>Freyre</apellido>
+         <telefono>(91) 555 94 44</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Moralzarzal, 86</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>227600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>144</id>
+      <empresa>Volvo Model Replicas, Co</empresa>
+      <contacto>
+         <nombre>Christina </nombre>
+         <apellido>Berglund</apellido>
+         <telefono>0921-12 3555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Berguvsvägen  8</calle>
+         <ciudad>Luleå</ciudad>
+         <pais>Sweden</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>53100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>144</id>
+      <empresa>Volvo Model Replicas, Co</empresa>
+      <contacto>
+         <nombre>Christina </nombre>
+         <apellido>Berglund</apellido>
+         <telefono>0921-12 3555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Berguvsvägen  8</calle>
+         <ciudad>Luleå</ciudad>
+         <pais>Sweden</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>53100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>145</id>
+      <empresa>Danish Wholesale Imports</empresa>
+      <contacto>
+         <nombre>Jytte </nombre>
+         <apellido>Petersen</apellido>
+         <telefono>31 12 3555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Vinbæltet 34</calle>
+         <ciudad>Kobenhavn</ciudad>
+         <pais>Denmark</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>83400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>145</id>
+      <empresa>Danish Wholesale Imports</empresa>
+      <contacto>
+         <nombre>Jytte </nombre>
+         <apellido>Petersen</apellido>
+         <telefono>31 12 3555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Vinbæltet 34</calle>
+         <ciudad>Kobenhavn</ciudad>
+         <pais>Denmark</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>83400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>145</id>
+      <empresa>Danish Wholesale Imports</empresa>
+      <contacto>
+         <nombre>Jytte </nombre>
+         <apellido>Petersen</apellido>
+         <telefono>31 12 3555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Vinbæltet 34</calle>
+         <ciudad>Kobenhavn</ciudad>
+         <pais>Denmark</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>83400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>145</id>
+      <empresa>Danish Wholesale Imports</empresa>
+      <contacto>
+         <nombre>Jytte </nombre>
+         <apellido>Petersen</apellido>
+         <telefono>31 12 3555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Vinbæltet 34</calle>
+         <ciudad>Kobenhavn</ciudad>
+         <pais>Denmark</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>83400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>146</id>
+      <empresa>Saveley and Henriot, Co.</empresa>
+      <contacto>
+         <nombre>Mary </nombre>
+         <apellido>Saveley</apellido>
+         <telefono>78.32.5555</telefono>
+      </contacto>
+      <direccion>
+         <calle>2, rue du Commerce</calle>
+         <ciudad>Lyon</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>123900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>146</id>
+      <empresa>Saveley and Henriot, Co.</empresa>
+      <contacto>
+         <nombre>Mary </nombre>
+         <apellido>Saveley</apellido>
+         <telefono>78.32.5555</telefono>
+      </contacto>
+      <direccion>
+         <calle>2, rue du Commerce</calle>
+         <ciudad>Lyon</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>123900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>146</id>
+      <empresa>Saveley and Henriot, Co.</empresa>
+      <contacto>
+         <nombre>Mary </nombre>
+         <apellido>Saveley</apellido>
+         <telefono>78.32.5555</telefono>
+      </contacto>
+      <direccion>
+         <calle>2, rue du Commerce</calle>
+         <ciudad>Lyon</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>123900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>148</id>
+      <empresa>Dragon Souveniers, Ltd.</empresa>
+      <contacto>
+         <nombre>Eric</nombre>
+         <apellido>Natividad</apellido>
+         <telefono>+65 221 7555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Bronz Sok.</calle>
+         <ciudad>Singapore</ciudad>
+         <pais>Singapore</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1621</vendedor_id>
+         <limite_credito>103800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>148</id>
+      <empresa>Dragon Souveniers, Ltd.</empresa>
+      <contacto>
+         <nombre>Eric</nombre>
+         <apellido>Natividad</apellido>
+         <telefono>+65 221 7555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Bronz Sok.</calle>
+         <ciudad>Singapore</ciudad>
+         <pais>Singapore</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1621</vendedor_id>
+         <limite_credito>103800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>148</id>
+      <empresa>Dragon Souveniers, Ltd.</empresa>
+      <contacto>
+         <nombre>Eric</nombre>
+         <apellido>Natividad</apellido>
+         <telefono>+65 221 7555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Bronz Sok.</calle>
+         <ciudad>Singapore</ciudad>
+         <pais>Singapore</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1621</vendedor_id>
+         <limite_credito>103800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>148</id>
+      <empresa>Dragon Souveniers, Ltd.</empresa>
+      <contacto>
+         <nombre>Eric</nombre>
+         <apellido>Natividad</apellido>
+         <telefono>+65 221 7555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Bronz Sok.</calle>
+         <ciudad>Singapore</ciudad>
+         <pais>Singapore</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1621</vendedor_id>
+         <limite_credito>103800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>151</id>
+      <empresa>Muscle Machine Inc</empresa>
+      <contacto>
+         <nombre>Jeff</nombre>
+         <apellido>Young</apellido>
+         <telefono>2125557413</telefono>
+      </contacto>
+      <direccion>
+         <calle>4092 Furth Circle</calle>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>138500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>151</id>
+      <empresa>Muscle Machine Inc</empresa>
+      <contacto>
+         <nombre>Jeff</nombre>
+         <apellido>Young</apellido>
+         <telefono>2125557413</telefono>
+      </contacto>
+      <direccion>
+         <calle>4092 Furth Circle</calle>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>138500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>151</id>
+      <empresa>Muscle Machine Inc</empresa>
+      <contacto>
+         <nombre>Jeff</nombre>
+         <apellido>Young</apellido>
+         <telefono>2125557413</telefono>
+      </contacto>
+      <direccion>
+         <calle>4092 Furth Circle</calle>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>138500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>151</id>
+      <empresa>Muscle Machine Inc</empresa>
+      <contacto>
+         <nombre>Jeff</nombre>
+         <apellido>Young</apellido>
+         <telefono>2125557413</telefono>
+      </contacto>
+      <direccion>
+         <calle>4092 Furth Circle</calle>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>138500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>157</id>
+      <empresa>Diecast Classics Inc.</empresa>
+      <contacto>
+         <nombre>Kelvin</nombre>
+         <apellido>Leong</apellido>
+         <telefono>2155551555</telefono>
+      </contacto>
+      <direccion>
+         <calle>7586 Pompton St.</calle>
+         <ciudad>Allentown</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1216</vendedor_id>
+         <limite_credito>100600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>157</id>
+      <empresa>Diecast Classics Inc.</empresa>
+      <contacto>
+         <nombre>Kelvin</nombre>
+         <apellido>Leong</apellido>
+         <telefono>2155551555</telefono>
+      </contacto>
+      <direccion>
+         <calle>7586 Pompton St.</calle>
+         <ciudad>Allentown</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1216</vendedor_id>
+         <limite_credito>100600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>161</id>
+      <empresa>Technics Stores Inc.</empresa>
+      <contacto>
+         <nombre>Juri</nombre>
+         <apellido>Hashimoto</apellido>
+         <telefono>6505556809</telefono>
+      </contacto>
+      <direccion>
+         <calle>9408 Furth Circle</calle>
+         <ciudad>Burlingame</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>84600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>161</id>
+      <empresa>Technics Stores Inc.</empresa>
+      <contacto>
+         <nombre>Juri</nombre>
+         <apellido>Hashimoto</apellido>
+         <telefono>6505556809</telefono>
+      </contacto>
+      <direccion>
+         <calle>9408 Furth Circle</calle>
+         <ciudad>Burlingame</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>84600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>161</id>
+      <empresa>Technics Stores Inc.</empresa>
+      <contacto>
+         <nombre>Juri</nombre>
+         <apellido>Hashimoto</apellido>
+         <telefono>6505556809</telefono>
+      </contacto>
+      <direccion>
+         <calle>9408 Furth Circle</calle>
+         <ciudad>Burlingame</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>84600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>161</id>
+      <empresa>Technics Stores Inc.</empresa>
+      <contacto>
+         <nombre>Juri</nombre>
+         <apellido>Hashimoto</apellido>
+         <telefono>6505556809</telefono>
+      </contacto>
+      <direccion>
+         <calle>9408 Furth Circle</calle>
+         <ciudad>Burlingame</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>84600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>166</id>
+      <empresa>Handji Giftsand Co</empresa>
+      <contacto>
+         <nombre>Wendy</nombre>
+         <apellido>Victorino</apellido>
+         <telefono>+65 224 1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>106 Linden Road Sandown</calle>
+         <ciudad>Singapore</ciudad>
+         <pais>Singapore</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1612</vendedor_id>
+         <limite_credito>97900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>166</id>
+      <empresa>Handji Giftsand Co</empresa>
+      <contacto>
+         <nombre>Wendy</nombre>
+         <apellido>Victorino</apellido>
+         <telefono>+65 224 1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>106 Linden Road Sandown</calle>
+         <ciudad>Singapore</ciudad>
+         <pais>Singapore</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1612</vendedor_id>
+         <limite_credito>97900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>166</id>
+      <empresa>Handji Giftsand Co</empresa>
+      <contacto>
+         <nombre>Wendy</nombre>
+         <apellido>Victorino</apellido>
+         <telefono>+65 224 1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>106 Linden Road Sandown</calle>
+         <ciudad>Singapore</ciudad>
+         <pais>Singapore</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1612</vendedor_id>
+         <limite_credito>97900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>167</id>
+      <empresa>Herkku Gifts</empresa>
+      <contacto>
+         <nombre>Veysel</nombre>
+         <apellido>Oeztan</apellido>
+         <telefono>+47 2267 3215</telefono>
+      </contacto>
+      <direccion>
+         <calle>Brehmen St. 121</calle>
+         <ciudad>Bergen</ciudad>
+         <pais>Norway  </pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>96800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>167</id>
+      <empresa>Herkku Gifts</empresa>
+      <contacto>
+         <nombre>Veysel</nombre>
+         <apellido>Oeztan</apellido>
+         <telefono>+47 2267 3215</telefono>
+      </contacto>
+      <direccion>
+         <calle>Brehmen St. 121</calle>
+         <ciudad>Bergen</ciudad>
+         <pais>Norway  </pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>96800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>171</id>
+      <empresa>Daedalus Designs Imports</empresa>
+      <contacto>
+         <nombre>Martine </nombre>
+         <apellido>Rancé</apellido>
+         <telefono>20.16.1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>184, chaussée de Tournai</calle>
+         <ciudad>Lille</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>82900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>171</id>
+      <empresa>Daedalus Designs Imports</empresa>
+      <contacto>
+         <nombre>Martine </nombre>
+         <apellido>Rancé</apellido>
+         <telefono>20.16.1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>184, chaussée de Tournai</calle>
+         <ciudad>Lille</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>82900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>172</id>
+      <empresa>La Corne D'abondance, Co.</empresa>
+      <contacto>
+         <nombre>Marie</nombre>
+         <apellido>Bertrand</apellido>
+         <telefono>(1) 42.34.2555</telefono>
+      </contacto>
+      <direccion>
+         <calle>265, boulevard Charonne</calle>
+         <ciudad>Paris</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>84300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>172</id>
+      <empresa>La Corne D'abondance, Co.</empresa>
+      <contacto>
+         <nombre>Marie</nombre>
+         <apellido>Bertrand</apellido>
+         <telefono>(1) 42.34.2555</telefono>
+      </contacto>
+      <direccion>
+         <calle>265, boulevard Charonne</calle>
+         <ciudad>Paris</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>84300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>172</id>
+      <empresa>La Corne D'abondance, Co.</empresa>
+      <contacto>
+         <nombre>Marie</nombre>
+         <apellido>Bertrand</apellido>
+         <telefono>(1) 42.34.2555</telefono>
+      </contacto>
+      <direccion>
+         <calle>265, boulevard Charonne</calle>
+         <ciudad>Paris</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>84300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>173</id>
+      <empresa>Cambridge Collectables Co.</empresa>
+      <contacto>
+         <nombre>Jerry</nombre>
+         <apellido>Tseng</apellido>
+         <telefono>6175555555</telefono>
+      </contacto>
+      <direccion>
+         <calle>4658 Baden Av.</calle>
+         <ciudad>Cambridge</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1188</vendedor_id>
+         <limite_credito>43400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>173</id>
+      <empresa>Cambridge Collectables Co.</empresa>
+      <contacto>
+         <nombre>Jerry</nombre>
+         <apellido>Tseng</apellido>
+         <telefono>6175555555</telefono>
+      </contacto>
+      <direccion>
+         <calle>4658 Baden Av.</calle>
+         <ciudad>Cambridge</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1188</vendedor_id>
+         <limite_credito>43400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>175</id>
+      <empresa>Gift Depot Inc.</empresa>
+      <contacto>
+         <nombre>Julie</nombre>
+         <apellido>King</apellido>
+         <telefono>2035552570</telefono>
+      </contacto>
+      <direccion>
+         <calle>25593 South Bay Ln.</calle>
+         <ciudad>Bridgewater</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>84300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>175</id>
+      <empresa>Gift Depot Inc.</empresa>
+      <contacto>
+         <nombre>Julie</nombre>
+         <apellido>King</apellido>
+         <telefono>2035552570</telefono>
+      </contacto>
+      <direccion>
+         <calle>25593 South Bay Ln.</calle>
+         <ciudad>Bridgewater</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>84300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>175</id>
+      <empresa>Gift Depot Inc.</empresa>
+      <contacto>
+         <nombre>Julie</nombre>
+         <apellido>King</apellido>
+         <telefono>2035552570</telefono>
+      </contacto>
+      <direccion>
+         <calle>25593 South Bay Ln.</calle>
+         <ciudad>Bridgewater</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>84300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>177</id>
+      <empresa>Osaka Souveniers Co.</empresa>
+      <contacto>
+         <nombre>Mory</nombre>
+         <apellido>Kentary</apellido>
+         <telefono>+81 06 6342 5555</telefono>
+      </contacto>
+      <direccion>
+         <calle>1-6-20 Dojima</calle>
+         <ciudad>Kita-ku</ciudad>
+         <pais>Japan</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1621</vendedor_id>
+         <limite_credito>81200.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>177</id>
+      <empresa>Osaka Souveniers Co.</empresa>
+      <contacto>
+         <nombre>Mory</nombre>
+         <apellido>Kentary</apellido>
+         <telefono>+81 06 6342 5555</telefono>
+      </contacto>
+      <direccion>
+         <calle>1-6-20 Dojima</calle>
+         <ciudad>Kita-ku</ciudad>
+         <pais>Japan</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1621</vendedor_id>
+         <limite_credito>81200.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>181</id>
+      <empresa>Vitachrome Inc.</empresa>
+      <contacto>
+         <nombre>Michael</nombre>
+         <apellido>Frick</apellido>
+         <telefono>2125551500</telefono>
+      </contacto>
+      <direccion>
+         <calle>2678 Kingston Rd.</calle>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>76400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>181</id>
+      <empresa>Vitachrome Inc.</empresa>
+      <contacto>
+         <nombre>Michael</nombre>
+         <apellido>Frick</apellido>
+         <telefono>2125551500</telefono>
+      </contacto>
+      <direccion>
+         <calle>2678 Kingston Rd.</calle>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>76400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>181</id>
+      <empresa>Vitachrome Inc.</empresa>
+      <contacto>
+         <nombre>Michael</nombre>
+         <apellido>Frick</apellido>
+         <telefono>2125551500</telefono>
+      </contacto>
+      <direccion>
+         <calle>2678 Kingston Rd.</calle>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>76400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>186</id>
+      <empresa>Toys of Finland, Co.</empresa>
+      <contacto>
+         <nombre>Matti</nombre>
+         <apellido>Karttunen</apellido>
+         <telefono>90-224 8555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Keskuskatu 45</calle>
+         <ciudad>Helsinki</ciudad>
+         <pais>Finland</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>96500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>186</id>
+      <empresa>Toys of Finland, Co.</empresa>
+      <contacto>
+         <nombre>Matti</nombre>
+         <apellido>Karttunen</apellido>
+         <telefono>90-224 8555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Keskuskatu 45</calle>
+         <ciudad>Helsinki</ciudad>
+         <pais>Finland</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>96500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>186</id>
+      <empresa>Toys of Finland, Co.</empresa>
+      <contacto>
+         <nombre>Matti</nombre>
+         <apellido>Karttunen</apellido>
+         <telefono>90-224 8555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Keskuskatu 45</calle>
+         <ciudad>Helsinki</ciudad>
+         <pais>Finland</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>96500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>187</id>
+      <empresa>AV Stores, Co.</empresa>
+      <contacto>
+         <nombre>Rachel</nombre>
+         <apellido>Ashworth</apellido>
+         <telefono>(171) 555-1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Fauntleroy Circus</calle>
+         <ciudad>Manchester</ciudad>
+         <pais>UK</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>136800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>187</id>
+      <empresa>AV Stores, Co.</empresa>
+      <contacto>
+         <nombre>Rachel</nombre>
+         <apellido>Ashworth</apellido>
+         <telefono>(171) 555-1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Fauntleroy Circus</calle>
+         <ciudad>Manchester</ciudad>
+         <pais>UK</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>136800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>187</id>
+      <empresa>AV Stores, Co.</empresa>
+      <contacto>
+         <nombre>Rachel</nombre>
+         <apellido>Ashworth</apellido>
+         <telefono>(171) 555-1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Fauntleroy Circus</calle>
+         <ciudad>Manchester</ciudad>
+         <pais>UK</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>136800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>189</id>
+      <empresa>Clover Collections, Co.</empresa>
+      <contacto>
+         <nombre>Dean</nombre>
+         <apellido>Cassidy</apellido>
+         <telefono>+353 1862 1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>25 Maiden Lane</calle>
+         <ciudad>Dublin</ciudad>
+         <pais>Ireland</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>69400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>189</id>
+      <empresa>Clover Collections, Co.</empresa>
+      <contacto>
+         <nombre>Dean</nombre>
+         <apellido>Cassidy</apellido>
+         <telefono>+353 1862 1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>25 Maiden Lane</calle>
+         <ciudad>Dublin</ciudad>
+         <pais>Ireland</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>69400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>198</id>
+      <empresa>Auto-Moto Classics Inc.</empresa>
+      <contacto>
+         <nombre>Leslie</nombre>
+         <apellido>Taylor</apellido>
+         <telefono>6175558428</telefono>
+      </contacto>
+      <direccion>
+         <calle>16780 Pompton St.</calle>
+         <ciudad>Brickhaven</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1216</vendedor_id>
+         <limite_credito>23000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>198</id>
+      <empresa>Auto-Moto Classics Inc.</empresa>
+      <contacto>
+         <nombre>Leslie</nombre>
+         <apellido>Taylor</apellido>
+         <telefono>6175558428</telefono>
+      </contacto>
+      <direccion>
+         <calle>16780 Pompton St.</calle>
+         <ciudad>Brickhaven</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1216</vendedor_id>
+         <limite_credito>23000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>198</id>
+      <empresa>Auto-Moto Classics Inc.</empresa>
+      <contacto>
+         <nombre>Leslie</nombre>
+         <apellido>Taylor</apellido>
+         <telefono>6175558428</telefono>
+      </contacto>
+      <direccion>
+         <calle>16780 Pompton St.</calle>
+         <ciudad>Brickhaven</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1216</vendedor_id>
+         <limite_credito>23000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>201</id>
+      <empresa>UK Collectables, Ltd.</empresa>
+      <contacto>
+         <nombre>Elizabeth</nombre>
+         <apellido>Devon</apellido>
+         <telefono>(171) 555-2282</telefono>
+      </contacto>
+      <direccion>
+         <calle>12, Berkeley Gardens Blvd</calle>
+         <ciudad>Liverpool</ciudad>
+         <pais>UK</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>92700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>201</id>
+      <empresa>UK Collectables, Ltd.</empresa>
+      <contacto>
+         <nombre>Elizabeth</nombre>
+         <apellido>Devon</apellido>
+         <telefono>(171) 555-2282</telefono>
+      </contacto>
+      <direccion>
+         <calle>12, Berkeley Gardens Blvd</calle>
+         <ciudad>Liverpool</ciudad>
+         <pais>UK</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>92700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>202</id>
+      <empresa>Canadian Gift Exchange Network</empresa>
+      <contacto>
+         <nombre>Yoshi </nombre>
+         <apellido>Tamuri</apellido>
+         <telefono>(604) 555-3392</telefono>
+      </contacto>
+      <direccion>
+         <calle>1900 Oak St.</calle>
+         <ciudad>Vancouver</ciudad>
+         <pais>Canada</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>90300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>202</id>
+      <empresa>Canadian Gift Exchange Network</empresa>
+      <contacto>
+         <nombre>Yoshi </nombre>
+         <apellido>Tamuri</apellido>
+         <telefono>(604) 555-3392</telefono>
+      </contacto>
+      <direccion>
+         <calle>1900 Oak St.</calle>
+         <ciudad>Vancouver</ciudad>
+         <pais>Canada</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>90300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>204</id>
+      <empresa>Online Mini Collectables</empresa>
+      <contacto>
+         <nombre>Miguel</nombre>
+         <apellido>Barajas</apellido>
+         <telefono>6175557555</telefono>
+      </contacto>
+      <direccion>
+         <calle>7635 Spinnaker Dr.</calle>
+         <ciudad>Brickhaven</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1188</vendedor_id>
+         <limite_credito>68700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>204</id>
+      <empresa>Online Mini Collectables</empresa>
+      <contacto>
+         <nombre>Miguel</nombre>
+         <apellido>Barajas</apellido>
+         <telefono>6175557555</telefono>
+      </contacto>
+      <direccion>
+         <calle>7635 Spinnaker Dr.</calle>
+         <ciudad>Brickhaven</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1188</vendedor_id>
+         <limite_credito>68700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>205</id>
+      <empresa>Toys4GrownUps.com</empresa>
+      <contacto>
+         <nombre>Julie</nombre>
+         <apellido>Young</apellido>
+         <telefono>6265557265</telefono>
+      </contacto>
+      <direccion>
+         <calle>78934 Hillside Dr.</calle>
+         <ciudad>Pasadena</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1166</vendedor_id>
+         <limite_credito>90700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>205</id>
+      <empresa>Toys4GrownUps.com</empresa>
+      <contacto>
+         <nombre>Julie</nombre>
+         <apellido>Young</apellido>
+         <telefono>6265557265</telefono>
+      </contacto>
+      <direccion>
+         <calle>78934 Hillside Dr.</calle>
+         <ciudad>Pasadena</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1166</vendedor_id>
+         <limite_credito>90700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>205</id>
+      <empresa>Toys4GrownUps.com</empresa>
+      <contacto>
+         <nombre>Julie</nombre>
+         <apellido>Young</apellido>
+         <telefono>6265557265</telefono>
+      </contacto>
+      <direccion>
+         <calle>78934 Hillside Dr.</calle>
+         <ciudad>Pasadena</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1166</vendedor_id>
+         <limite_credito>90700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>209</id>
+      <empresa>Mini Caravy</empresa>
+      <contacto>
+         <nombre>Frédérique </nombre>
+         <apellido>Citeaux</apellido>
+         <telefono>88.60.1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>24, place Kléber</calle>
+         <ciudad>Strasbourg</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>53800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>209</id>
+      <empresa>Mini Caravy</empresa>
+      <contacto>
+         <nombre>Frédérique </nombre>
+         <apellido>Citeaux</apellido>
+         <telefono>88.60.1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>24, place Kléber</calle>
+         <ciudad>Strasbourg</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>53800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>209</id>
+      <empresa>Mini Caravy</empresa>
+      <contacto>
+         <nombre>Frédérique </nombre>
+         <apellido>Citeaux</apellido>
+         <telefono>88.60.1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>24, place Kléber</calle>
+         <ciudad>Strasbourg</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>53800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>211</id>
+      <empresa>King Kong Collectables, Co.</empresa>
+      <contacto>
+         <nombre>Mike</nombre>
+         <apellido>Gao</apellido>
+         <telefono>+852 2251 1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Bank of China Tower</calle>
+         <ciudad>Central Hong Kong</ciudad>
+         <pais>Hong Kong</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1621</vendedor_id>
+         <limite_credito>58600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>216</id>
+      <empresa>Enaco Distributors</empresa>
+      <contacto>
+         <nombre>Eduardo </nombre>
+         <apellido>Saavedra</apellido>
+         <telefono>(93) 203 4555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Rambla de Cataluña, 23</calle>
+         <ciudad>Barcelona</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1702</vendedor_id>
+         <limite_credito>60300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>216</id>
+      <empresa>Enaco Distributors</empresa>
+      <contacto>
+         <nombre>Eduardo </nombre>
+         <apellido>Saavedra</apellido>
+         <telefono>(93) 203 4555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Rambla de Cataluña, 23</calle>
+         <ciudad>Barcelona</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1702</vendedor_id>
+         <limite_credito>60300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>216</id>
+      <empresa>Enaco Distributors</empresa>
+      <contacto>
+         <nombre>Eduardo </nombre>
+         <apellido>Saavedra</apellido>
+         <telefono>(93) 203 4555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Rambla de Cataluña, 23</calle>
+         <ciudad>Barcelona</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1702</vendedor_id>
+         <limite_credito>60300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>219</id>
+      <empresa>Boards and Toys Co.</empresa>
+      <contacto>
+         <nombre>Mary</nombre>
+         <apellido>Young</apellido>
+         <telefono>3105552373</telefono>
+      </contacto>
+      <direccion>
+         <calle>4097 Douglas Av.</calle>
+         <ciudad>Glendale</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1166</vendedor_id>
+         <limite_credito>11000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>219</id>
+      <empresa>Boards and Toys Co.</empresa>
+      <contacto>
+         <nombre>Mary</nombre>
+         <apellido>Young</apellido>
+         <telefono>3105552373</telefono>
+      </contacto>
+      <direccion>
+         <calle>4097 Douglas Av.</calle>
+         <ciudad>Glendale</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1166</vendedor_id>
+         <limite_credito>11000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>227</id>
+      <empresa>Heintze Collectables</empresa>
+      <contacto>
+         <nombre>Palle</nombre>
+         <apellido>Ibsen</apellido>
+         <telefono>86 21 3555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Smagsloget 45</calle>
+         <ciudad>Århus</ciudad>
+         <pais>Denmark</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>120800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>227</id>
+      <empresa>Heintze Collectables</empresa>
+      <contacto>
+         <nombre>Palle</nombre>
+         <apellido>Ibsen</apellido>
+         <telefono>86 21 3555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Smagsloget 45</calle>
+         <ciudad>Århus</ciudad>
+         <pais>Denmark</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>120800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>233</id>
+      <empresa>Québec Home Shopping Network</empresa>
+      <contacto>
+         <nombre>Jean </nombre>
+         <apellido>Fresnière</apellido>
+         <telefono>(514) 555-8054</telefono>
+      </contacto>
+      <direccion>
+         <calle>43 rue St. Laurent</calle>
+         <ciudad>Montréal</ciudad>
+         <pais>Canada</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>48700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>233</id>
+      <empresa>Québec Home Shopping Network</empresa>
+      <contacto>
+         <nombre>Jean </nombre>
+         <apellido>Fresnière</apellido>
+         <telefono>(514) 555-8054</telefono>
+      </contacto>
+      <direccion>
+         <calle>43 rue St. Laurent</calle>
+         <ciudad>Montréal</ciudad>
+         <pais>Canada</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>48700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>233</id>
+      <empresa>Québec Home Shopping Network</empresa>
+      <contacto>
+         <nombre>Jean </nombre>
+         <apellido>Fresnière</apellido>
+         <telefono>(514) 555-8054</telefono>
+      </contacto>
+      <direccion>
+         <calle>43 rue St. Laurent</calle>
+         <ciudad>Montréal</ciudad>
+         <pais>Canada</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>48700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>239</id>
+      <empresa>Collectable Mini Designs Co.</empresa>
+      <contacto>
+         <nombre>Valarie</nombre>
+         <apellido>Thompson</apellido>
+         <telefono>7605558146</telefono>
+      </contacto>
+      <direccion>
+         <calle>361 Furth Circle</calle>
+         <ciudad>San Diego</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1166</vendedor_id>
+         <limite_credito>105000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>240</id>
+      <empresa>giftsbymail.co.uk</empresa>
+      <contacto>
+         <nombre>Helen </nombre>
+         <apellido>Bennett</apellido>
+         <telefono>(198) 555-8888</telefono>
+      </contacto>
+      <direccion>
+         <calle>Garden House</calle>
+         <ciudad>Cowes</ciudad>
+         <pais>UK</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>93900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>240</id>
+      <empresa>giftsbymail.co.uk</empresa>
+      <contacto>
+         <nombre>Helen </nombre>
+         <apellido>Bennett</apellido>
+         <telefono>(198) 555-8888</telefono>
+      </contacto>
+      <direccion>
+         <calle>Garden House</calle>
+         <ciudad>Cowes</ciudad>
+         <pais>UK</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>93900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>242</id>
+      <empresa>Alpha Cognac</empresa>
+      <contacto>
+         <nombre>Annette </nombre>
+         <apellido>Roulet</apellido>
+         <telefono>61.77.6555</telefono>
+      </contacto>
+      <direccion>
+         <calle>1 rue Alsace-Lorraine</calle>
+         <ciudad>Toulouse</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>61100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>242</id>
+      <empresa>Alpha Cognac</empresa>
+      <contacto>
+         <nombre>Annette </nombre>
+         <apellido>Roulet</apellido>
+         <telefono>61.77.6555</telefono>
+      </contacto>
+      <direccion>
+         <calle>1 rue Alsace-Lorraine</calle>
+         <ciudad>Toulouse</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>61100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>242</id>
+      <empresa>Alpha Cognac</empresa>
+      <contacto>
+         <nombre>Annette </nombre>
+         <apellido>Roulet</apellido>
+         <telefono>61.77.6555</telefono>
+      </contacto>
+      <direccion>
+         <calle>1 rue Alsace-Lorraine</calle>
+         <ciudad>Toulouse</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>61100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>249</id>
+      <empresa>Amica Models and Co.</empresa>
+      <contacto>
+         <nombre>Paolo </nombre>
+         <apellido>Accorti</apellido>
+         <telefono>011-4988555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Via Monte Bianco 34</calle>
+         <ciudad>Torino</ciudad>
+         <pais>Italy</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>113000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>249</id>
+      <empresa>Amica Models and Co.</empresa>
+      <contacto>
+         <nombre>Paolo </nombre>
+         <apellido>Accorti</apellido>
+         <telefono>011-4988555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Via Monte Bianco 34</calle>
+         <ciudad>Torino</ciudad>
+         <pais>Italy</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>113000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>250</id>
+      <empresa>Lyon Souveniers</empresa>
+      <contacto>
+         <nombre>Daniel</nombre>
+         <apellido>Da Silva</apellido>
+         <telefono>+33 1 46 62 7555</telefono>
+      </contacto>
+      <direccion>
+         <calle>27 rue du Colonel Pierre Avia</calle>
+         <ciudad>Paris</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>68100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>250</id>
+      <empresa>Lyon Souveniers</empresa>
+      <contacto>
+         <nombre>Daniel</nombre>
+         <apellido>Da Silva</apellido>
+         <telefono>+33 1 46 62 7555</telefono>
+      </contacto>
+      <direccion>
+         <calle>27 rue du Colonel Pierre Avia</calle>
+         <ciudad>Paris</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>68100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>250</id>
+      <empresa>Lyon Souveniers</empresa>
+      <contacto>
+         <nombre>Daniel</nombre>
+         <apellido>Da Silva</apellido>
+         <telefono>+33 1 46 62 7555</telefono>
+      </contacto>
+      <direccion>
+         <calle>27 rue du Colonel Pierre Avia</calle>
+         <ciudad>Paris</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>68100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>256</id>
+      <empresa>Auto Associés and Cie.</empresa>
+      <contacto>
+         <nombre>Daniel </nombre>
+         <apellido>Tonini</apellido>
+         <telefono>30.59.8555</telefono>
+      </contacto>
+      <direccion>
+         <calle>67, avenue de l'Europe</calle>
+         <ciudad>Versailles</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>77900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>256</id>
+      <empresa>Auto Associés and Cie.</empresa>
+      <contacto>
+         <nombre>Daniel </nombre>
+         <apellido>Tonini</apellido>
+         <telefono>30.59.8555</telefono>
+      </contacto>
+      <direccion>
+         <calle>67, avenue de l'Europe</calle>
+         <ciudad>Versailles</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1370</vendedor_id>
+         <limite_credito>77900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>259</id>
+      <empresa>Toms Spezialitäten, Ltd</empresa>
+      <contacto>
+         <nombre>Henriette </nombre>
+         <apellido>Pfalzheim</apellido>
+         <telefono>0221-5554327</telefono>
+      </contacto>
+      <direccion>
+         <calle>Mehrheimerstr. 369</calle>
+         <ciudad>Köln</ciudad>
+         <pais>Germany</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>120400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>259</id>
+      <empresa>Toms Spezialitäten, Ltd</empresa>
+      <contacto>
+         <nombre>Henriette </nombre>
+         <apellido>Pfalzheim</apellido>
+         <telefono>0221-5554327</telefono>
+      </contacto>
+      <direccion>
+         <calle>Mehrheimerstr. 369</calle>
+         <ciudad>Köln</ciudad>
+         <pais>Germany</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>120400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>260</id>
+      <empresa>Royal Canadian Collectables, Ltd.</empresa>
+      <contacto>
+         <nombre>Elizabeth </nombre>
+         <apellido>Lincoln</apellido>
+         <telefono>(604) 555-4555</telefono>
+      </contacto>
+      <direccion>
+         <calle>23 Tsawassen Blvd.</calle>
+         <ciudad>Tsawassen</ciudad>
+         <pais>Canada</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>89600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>260</id>
+      <empresa>Royal Canadian Collectables, Ltd.</empresa>
+      <contacto>
+         <nombre>Elizabeth </nombre>
+         <apellido>Lincoln</apellido>
+         <telefono>(604) 555-4555</telefono>
+      </contacto>
+      <direccion>
+         <calle>23 Tsawassen Blvd.</calle>
+         <ciudad>Tsawassen</ciudad>
+         <pais>Canada</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>89600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>276</id>
+      <empresa>Anna's Decorations, Ltd</empresa>
+      <contacto>
+         <nombre>Anna</nombre>
+         <apellido>O'Hara</apellido>
+         <telefono>02 9936 8555</telefono>
+      </contacto>
+      <direccion>
+         <calle>201 Miller Street</calle>
+         <ciudad>North Sydney</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>107800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>276</id>
+      <empresa>Anna's Decorations, Ltd</empresa>
+      <contacto>
+         <nombre>Anna</nombre>
+         <apellido>O'Hara</apellido>
+         <telefono>02 9936 8555</telefono>
+      </contacto>
+      <direccion>
+         <calle>201 Miller Street</calle>
+         <ciudad>North Sydney</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>107800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>276</id>
+      <empresa>Anna's Decorations, Ltd</empresa>
+      <contacto>
+         <nombre>Anna</nombre>
+         <apellido>O'Hara</apellido>
+         <telefono>02 9936 8555</telefono>
+      </contacto>
+      <direccion>
+         <calle>201 Miller Street</calle>
+         <ciudad>North Sydney</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>107800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>276</id>
+      <empresa>Anna's Decorations, Ltd</empresa>
+      <contacto>
+         <nombre>Anna</nombre>
+         <apellido>O'Hara</apellido>
+         <telefono>02 9936 8555</telefono>
+      </contacto>
+      <direccion>
+         <calle>201 Miller Street</calle>
+         <ciudad>North Sydney</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>107800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>278</id>
+      <empresa>Rovelli Gifts</empresa>
+      <contacto>
+         <nombre>Giovanni </nombre>
+         <apellido>Rovelli</apellido>
+         <telefono>035-640555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Via Ludovico il Moro 22</calle>
+         <ciudad>Bergamo</ciudad>
+         <pais>Italy</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>119600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>278</id>
+      <empresa>Rovelli Gifts</empresa>
+      <contacto>
+         <nombre>Giovanni </nombre>
+         <apellido>Rovelli</apellido>
+         <telefono>035-640555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Via Ludovico il Moro 22</calle>
+         <ciudad>Bergamo</ciudad>
+         <pais>Italy</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>119600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>278</id>
+      <empresa>Rovelli Gifts</empresa>
+      <contacto>
+         <nombre>Giovanni </nombre>
+         <apellido>Rovelli</apellido>
+         <telefono>035-640555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Via Ludovico il Moro 22</calle>
+         <ciudad>Bergamo</ciudad>
+         <pais>Italy</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>119600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>282</id>
+      <empresa>Souveniers And Things Co.</empresa>
+      <contacto>
+         <nombre>Adrian</nombre>
+         <apellido>Huxley</apellido>
+         <telefono>+61 2 9495 8555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Monitor Money Building</calle>
+         <ciudad>Chatswood</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>93300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>282</id>
+      <empresa>Souveniers And Things Co.</empresa>
+      <contacto>
+         <nombre>Adrian</nombre>
+         <apellido>Huxley</apellido>
+         <telefono>+61 2 9495 8555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Monitor Money Building</calle>
+         <ciudad>Chatswood</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>93300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>282</id>
+      <empresa>Souveniers And Things Co.</empresa>
+      <contacto>
+         <nombre>Adrian</nombre>
+         <apellido>Huxley</apellido>
+         <telefono>+61 2 9495 8555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Monitor Money Building</calle>
+         <ciudad>Chatswood</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>93300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>286</id>
+      <empresa>Marta's Replicas Co.</empresa>
+      <contacto>
+         <nombre>Marta</nombre>
+         <apellido>Hernandez</apellido>
+         <telefono>6175558555</telefono>
+      </contacto>
+      <direccion>
+         <calle>39323 Spinnaker Dr.</calle>
+         <ciudad>Cambridge</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1216</vendedor_id>
+         <limite_credito>123700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>286</id>
+      <empresa>Marta's Replicas Co.</empresa>
+      <contacto>
+         <nombre>Marta</nombre>
+         <apellido>Hernandez</apellido>
+         <telefono>6175558555</telefono>
+      </contacto>
+      <direccion>
+         <calle>39323 Spinnaker Dr.</calle>
+         <ciudad>Cambridge</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1216</vendedor_id>
+         <limite_credito>123700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>298</id>
+      <empresa>Vida Sport, Ltd</empresa>
+      <contacto>
+         <nombre>Mihael</nombre>
+         <apellido>Holz</apellido>
+         <telefono>0897-034555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Grenzacherweg 237</calle>
+         <ciudad>Genève</ciudad>
+         <pais>Switzerland</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1702</vendedor_id>
+         <limite_credito>141300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>298</id>
+      <empresa>Vida Sport, Ltd</empresa>
+      <contacto>
+         <nombre>Mihael</nombre>
+         <apellido>Holz</apellido>
+         <telefono>0897-034555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Grenzacherweg 237</calle>
+         <ciudad>Genève</ciudad>
+         <pais>Switzerland</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1702</vendedor_id>
+         <limite_credito>141300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>299</id>
+      <empresa>Norway Gifts By Mail, Co.</empresa>
+      <contacto>
+         <nombre>Jan</nombre>
+         <apellido>Klaeboe</apellido>
+         <telefono>+47 2212 1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Drammensveien 126A</calle>
+         <ciudad>Oslo</ciudad>
+         <pais>Norway  </pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>95100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>299</id>
+      <empresa>Norway Gifts By Mail, Co.</empresa>
+      <contacto>
+         <nombre>Jan</nombre>
+         <apellido>Klaeboe</apellido>
+         <telefono>+47 2212 1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Drammensveien 126A</calle>
+         <ciudad>Oslo</ciudad>
+         <pais>Norway  </pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>95100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>311</id>
+      <empresa>Oulu Toy Supplies, Inc.</empresa>
+      <contacto>
+         <nombre>Pirkko</nombre>
+         <apellido>Koskitalo</apellido>
+         <telefono>981-443655</telefono>
+      </contacto>
+      <direccion>
+         <calle>Torikatu 38</calle>
+         <ciudad>Oulu</ciudad>
+         <pais>Finland</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>90500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>311</id>
+      <empresa>Oulu Toy Supplies, Inc.</empresa>
+      <contacto>
+         <nombre>Pirkko</nombre>
+         <apellido>Koskitalo</apellido>
+         <telefono>981-443655</telefono>
+      </contacto>
+      <direccion>
+         <calle>Torikatu 38</calle>
+         <ciudad>Oulu</ciudad>
+         <pais>Finland</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>90500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>311</id>
+      <empresa>Oulu Toy Supplies, Inc.</empresa>
+      <contacto>
+         <nombre>Pirkko</nombre>
+         <apellido>Koskitalo</apellido>
+         <telefono>981-443655</telefono>
+      </contacto>
+      <direccion>
+         <calle>Torikatu 38</calle>
+         <ciudad>Oulu</ciudad>
+         <pais>Finland</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>90500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>314</id>
+      <empresa>Petit Auto</empresa>
+      <contacto>
+         <nombre>Catherine </nombre>
+         <apellido>Dewey</apellido>
+         <telefono>(02) 5554 67</telefono>
+      </contacto>
+      <direccion>
+         <calle>Rue Joseph-Bens 532</calle>
+         <ciudad>Bruxelles</ciudad>
+         <pais>Belgium</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>79900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>314</id>
+      <empresa>Petit Auto</empresa>
+      <contacto>
+         <nombre>Catherine </nombre>
+         <apellido>Dewey</apellido>
+         <telefono>(02) 5554 67</telefono>
+      </contacto>
+      <direccion>
+         <calle>Rue Joseph-Bens 532</calle>
+         <ciudad>Bruxelles</ciudad>
+         <pais>Belgium</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>79900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>319</id>
+      <empresa>Mini Classics</empresa>
+      <contacto>
+         <nombre>Steve</nombre>
+         <apellido>Frick</apellido>
+         <telefono>9145554562</telefono>
+      </contacto>
+      <direccion>
+         <calle>3758 North Pendale Street</calle>
+         <ciudad>White Plains</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>102700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>319</id>
+      <empresa>Mini Classics</empresa>
+      <contacto>
+         <nombre>Steve</nombre>
+         <apellido>Frick</apellido>
+         <telefono>9145554562</telefono>
+      </contacto>
+      <direccion>
+         <calle>3758 North Pendale Street</calle>
+         <ciudad>White Plains</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>102700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>320</id>
+      <empresa>Mini Creations Ltd.</empresa>
+      <contacto>
+         <nombre>Wing</nombre>
+         <apellido>Huang</apellido>
+         <telefono>5085559555</telefono>
+      </contacto>
+      <direccion>
+         <calle>4575 Hillside Dr.</calle>
+         <ciudad>New Bedford</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1188</vendedor_id>
+         <limite_credito>94500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>320</id>
+      <empresa>Mini Creations Ltd.</empresa>
+      <contacto>
+         <nombre>Wing</nombre>
+         <apellido>Huang</apellido>
+         <telefono>5085559555</telefono>
+      </contacto>
+      <direccion>
+         <calle>4575 Hillside Dr.</calle>
+         <ciudad>New Bedford</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1188</vendedor_id>
+         <limite_credito>94500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>320</id>
+      <empresa>Mini Creations Ltd.</empresa>
+      <contacto>
+         <nombre>Wing</nombre>
+         <apellido>Huang</apellido>
+         <telefono>5085559555</telefono>
+      </contacto>
+      <direccion>
+         <calle>4575 Hillside Dr.</calle>
+         <ciudad>New Bedford</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1188</vendedor_id>
+         <limite_credito>94500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>321</id>
+      <empresa>Corporate Gift Ideas Co.</empresa>
+      <contacto>
+         <nombre>Julie</nombre>
+         <apellido>Brown</apellido>
+         <telefono>6505551386</telefono>
+      </contacto>
+      <direccion>
+         <calle>7734 Strong St.</calle>
+         <ciudad>San Francisco</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>105000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>321</id>
+      <empresa>Corporate Gift Ideas Co.</empresa>
+      <contacto>
+         <nombre>Julie</nombre>
+         <apellido>Brown</apellido>
+         <telefono>6505551386</telefono>
+      </contacto>
+      <direccion>
+         <calle>7734 Strong St.</calle>
+         <ciudad>San Francisco</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>105000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>323</id>
+      <empresa>Down Under Souveniers, Inc</empresa>
+      <contacto>
+         <nombre>Mike</nombre>
+         <apellido>Graham</apellido>
+         <telefono>+64 9 312 5555</telefono>
+      </contacto>
+      <direccion>
+         <calle>162-164 Grafton Road</calle>
+         <ciudad>Auckland  </ciudad>
+         <pais>New Zealand</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1612</vendedor_id>
+         <limite_credito>88000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>323</id>
+      <empresa>Down Under Souveniers, Inc</empresa>
+      <contacto>
+         <nombre>Mike</nombre>
+         <apellido>Graham</apellido>
+         <telefono>+64 9 312 5555</telefono>
+      </contacto>
+      <direccion>
+         <calle>162-164 Grafton Road</calle>
+         <ciudad>Auckland  </ciudad>
+         <pais>New Zealand</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1612</vendedor_id>
+         <limite_credito>88000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>323</id>
+      <empresa>Down Under Souveniers, Inc</empresa>
+      <contacto>
+         <nombre>Mike</nombre>
+         <apellido>Graham</apellido>
+         <telefono>+64 9 312 5555</telefono>
+      </contacto>
+      <direccion>
+         <calle>162-164 Grafton Road</calle>
+         <ciudad>Auckland  </ciudad>
+         <pais>New Zealand</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1612</vendedor_id>
+         <limite_credito>88000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>323</id>
+      <empresa>Down Under Souveniers, Inc</empresa>
+      <contacto>
+         <nombre>Mike</nombre>
+         <apellido>Graham</apellido>
+         <telefono>+64 9 312 5555</telefono>
+      </contacto>
+      <direccion>
+         <calle>162-164 Grafton Road</calle>
+         <ciudad>Auckland  </ciudad>
+         <pais>New Zealand</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1612</vendedor_id>
+         <limite_credito>88000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>324</id>
+      <empresa>Stylish Desk Decors, Co.</empresa>
+      <contacto>
+         <nombre>Ann </nombre>
+         <apellido>Brown</apellido>
+         <telefono>(171) 555-0297</telefono>
+      </contacto>
+      <direccion>
+         <calle>35 King George</calle>
+         <ciudad>London</ciudad>
+         <pais>UK</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>77000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>324</id>
+      <empresa>Stylish Desk Decors, Co.</empresa>
+      <contacto>
+         <nombre>Ann </nombre>
+         <apellido>Brown</apellido>
+         <telefono>(171) 555-0297</telefono>
+      </contacto>
+      <direccion>
+         <calle>35 King George</calle>
+         <ciudad>London</ciudad>
+         <pais>UK</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>77000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>324</id>
+      <empresa>Stylish Desk Decors, Co.</empresa>
+      <contacto>
+         <nombre>Ann </nombre>
+         <apellido>Brown</apellido>
+         <telefono>(171) 555-0297</telefono>
+      </contacto>
+      <direccion>
+         <calle>35 King George</calle>
+         <ciudad>London</ciudad>
+         <pais>UK</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>77000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>328</id>
+      <empresa>Tekni Collectables Inc.</empresa>
+      <contacto>
+         <nombre>William</nombre>
+         <apellido>Brown</apellido>
+         <telefono>2015559350</telefono>
+      </contacto>
+      <direccion>
+         <calle>7476 Moss Rd.</calle>
+         <ciudad>Newark</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>43000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>328</id>
+      <empresa>Tekni Collectables Inc.</empresa>
+      <contacto>
+         <nombre>William</nombre>
+         <apellido>Brown</apellido>
+         <telefono>2015559350</telefono>
+      </contacto>
+      <direccion>
+         <calle>7476 Moss Rd.</calle>
+         <ciudad>Newark</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>43000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>333</id>
+      <empresa>Australian Gift Network, Co</empresa>
+      <contacto>
+         <nombre>Ben</nombre>
+         <apellido>Calaghan</apellido>
+         <telefono>61-7-3844-6555</telefono>
+      </contacto>
+      <direccion>
+         <calle>31 Duncan St. West End</calle>
+         <ciudad>South Brisbane</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>51600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>333</id>
+      <empresa>Australian Gift Network, Co</empresa>
+      <contacto>
+         <nombre>Ben</nombre>
+         <apellido>Calaghan</apellido>
+         <telefono>61-7-3844-6555</telefono>
+      </contacto>
+      <direccion>
+         <calle>31 Duncan St. West End</calle>
+         <ciudad>South Brisbane</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>51600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>333</id>
+      <empresa>Australian Gift Network, Co</empresa>
+      <contacto>
+         <nombre>Ben</nombre>
+         <apellido>Calaghan</apellido>
+         <telefono>61-7-3844-6555</telefono>
+      </contacto>
+      <direccion>
+         <calle>31 Duncan St. West End</calle>
+         <ciudad>South Brisbane</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>51600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>334</id>
+      <empresa>Suominen Souveniers</empresa>
+      <contacto>
+         <nombre>Kalle</nombre>
+         <apellido>Suominen</apellido>
+         <telefono>+358 9 8045 555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Software Engineering Center</calle>
+         <ciudad>Espoo</ciudad>
+         <pais>Finland</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>98800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>334</id>
+      <empresa>Suominen Souveniers</empresa>
+      <contacto>
+         <nombre>Kalle</nombre>
+         <apellido>Suominen</apellido>
+         <telefono>+358 9 8045 555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Software Engineering Center</calle>
+         <ciudad>Espoo</ciudad>
+         <pais>Finland</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>98800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>334</id>
+      <empresa>Suominen Souveniers</empresa>
+      <contacto>
+         <nombre>Kalle</nombre>
+         <apellido>Suominen</apellido>
+         <telefono>+358 9 8045 555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Software Engineering Center</calle>
+         <ciudad>Espoo</ciudad>
+         <pais>Finland</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>98800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>339</id>
+      <empresa>Classic Gift Ideas, Inc</empresa>
+      <contacto>
+         <nombre>Francisca</nombre>
+         <apellido>Cervantes</apellido>
+         <telefono>2155554695</telefono>
+      </contacto>
+      <direccion>
+         <calle>782 First Street</calle>
+         <ciudad>Philadelphia</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1188</vendedor_id>
+         <limite_credito>81100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>339</id>
+      <empresa>Classic Gift Ideas, Inc</empresa>
+      <contacto>
+         <nombre>Francisca</nombre>
+         <apellido>Cervantes</apellido>
+         <telefono>2155554695</telefono>
+      </contacto>
+      <direccion>
+         <calle>782 First Street</calle>
+         <ciudad>Philadelphia</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1188</vendedor_id>
+         <limite_credito>81100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>344</id>
+      <empresa>CAF Imports</empresa>
+      <contacto>
+         <nombre>Jesus</nombre>
+         <apellido>Fernandez</apellido>
+         <telefono>+34 913 728 555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Merchants House</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1702</vendedor_id>
+         <limite_credito>59600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>344</id>
+      <empresa>CAF Imports</empresa>
+      <contacto>
+         <nombre>Jesus</nombre>
+         <apellido>Fernandez</apellido>
+         <telefono>+34 913 728 555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Merchants House</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1702</vendedor_id>
+         <limite_credito>59600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>347</id>
+      <empresa>Men 'R' US Retailers, Ltd.</empresa>
+      <contacto>
+         <nombre>Brian</nombre>
+         <apellido>Chandler</apellido>
+         <telefono>2155554369</telefono>
+      </contacto>
+      <direccion>
+         <calle>6047 Douglas Av.</calle>
+         <ciudad>Los Angeles</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1166</vendedor_id>
+         <limite_credito>57700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>347</id>
+      <empresa>Men 'R' US Retailers, Ltd.</empresa>
+      <contacto>
+         <nombre>Brian</nombre>
+         <apellido>Chandler</apellido>
+         <telefono>2155554369</telefono>
+      </contacto>
+      <direccion>
+         <calle>6047 Douglas Av.</calle>
+         <ciudad>Los Angeles</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1166</vendedor_id>
+         <limite_credito>57700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>350</id>
+      <empresa>Marseille Mini Autos</empresa>
+      <contacto>
+         <nombre>Laurence </nombre>
+         <apellido>Lebihan</apellido>
+         <telefono>91.24.4555</telefono>
+      </contacto>
+      <direccion>
+         <calle>12, rue des Bouchers</calle>
+         <ciudad>Marseille</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>65000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>350</id>
+      <empresa>Marseille Mini Autos</empresa>
+      <contacto>
+         <nombre>Laurence </nombre>
+         <apellido>Lebihan</apellido>
+         <telefono>91.24.4555</telefono>
+      </contacto>
+      <direccion>
+         <calle>12, rue des Bouchers</calle>
+         <ciudad>Marseille</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>65000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>350</id>
+      <empresa>Marseille Mini Autos</empresa>
+      <contacto>
+         <nombre>Laurence </nombre>
+         <apellido>Lebihan</apellido>
+         <telefono>91.24.4555</telefono>
+      </contacto>
+      <direccion>
+         <calle>12, rue des Bouchers</calle>
+         <ciudad>Marseille</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>65000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>353</id>
+      <empresa>Reims Collectables</empresa>
+      <contacto>
+         <nombre>Paul </nombre>
+         <apellido>Henriot</apellido>
+         <telefono>26.47.1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>59 rue de l'Abbaye</calle>
+         <ciudad>Reims</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>81100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>353</id>
+      <empresa>Reims Collectables</empresa>
+      <contacto>
+         <nombre>Paul </nombre>
+         <apellido>Henriot</apellido>
+         <telefono>26.47.1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>59 rue de l'Abbaye</calle>
+         <ciudad>Reims</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>81100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>353</id>
+      <empresa>Reims Collectables</empresa>
+      <contacto>
+         <nombre>Paul </nombre>
+         <apellido>Henriot</apellido>
+         <telefono>26.47.1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>59 rue de l'Abbaye</calle>
+         <ciudad>Reims</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>81100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>353</id>
+      <empresa>Reims Collectables</empresa>
+      <contacto>
+         <nombre>Paul </nombre>
+         <apellido>Henriot</apellido>
+         <telefono>26.47.1555</telefono>
+      </contacto>
+      <direccion>
+         <calle>59 rue de l'Abbaye</calle>
+         <ciudad>Reims</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>81100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>357</id>
+      <empresa>GiftsForHim.com</empresa>
+      <contacto>
+         <nombre>Wales</nombre>
+         <apellido>MacKinlay</apellido>
+         <telefono>64-9-3763555</telefono>
+      </contacto>
+      <direccion>
+         <calle>199 Great North Road</calle>
+         <ciudad>Auckland</ciudad>
+         <pais>New Zealand</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1612</vendedor_id>
+         <limite_credito>77700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>357</id>
+      <empresa>GiftsForHim.com</empresa>
+      <contacto>
+         <nombre>Wales</nombre>
+         <apellido>MacKinlay</apellido>
+         <telefono>64-9-3763555</telefono>
+      </contacto>
+      <direccion>
+         <calle>199 Great North Road</calle>
+         <ciudad>Auckland</ciudad>
+         <pais>New Zealand</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1612</vendedor_id>
+         <limite_credito>77700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>362</id>
+      <empresa>Gifts4AllAges.com</empresa>
+      <contacto>
+         <nombre>Juri</nombre>
+         <apellido>Yoshido</apellido>
+         <telefono>6175559555</telefono>
+      </contacto>
+      <direccion>
+         <calle>8616 Spinnaker Dr.</calle>
+         <ciudad>Boston</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1216</vendedor_id>
+         <limite_credito>41900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>362</id>
+      <empresa>Gifts4AllAges.com</empresa>
+      <contacto>
+         <nombre>Juri</nombre>
+         <apellido>Yoshido</apellido>
+         <telefono>6175559555</telefono>
+      </contacto>
+      <direccion>
+         <calle>8616 Spinnaker Dr.</calle>
+         <ciudad>Boston</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1216</vendedor_id>
+         <limite_credito>41900.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>363</id>
+      <empresa>Online Diecast Creations Co.</empresa>
+      <contacto>
+         <nombre>Dorothy</nombre>
+         <apellido>Young</apellido>
+         <telefono>6035558647</telefono>
+      </contacto>
+      <direccion>
+         <calle>2304 Long Airport Avenue</calle>
+         <ciudad>Nashua</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1216</vendedor_id>
+         <limite_credito>114200.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>363</id>
+      <empresa>Online Diecast Creations Co.</empresa>
+      <contacto>
+         <nombre>Dorothy</nombre>
+         <apellido>Young</apellido>
+         <telefono>6035558647</telefono>
+      </contacto>
+      <direccion>
+         <calle>2304 Long Airport Avenue</calle>
+         <ciudad>Nashua</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1216</vendedor_id>
+         <limite_credito>114200.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>363</id>
+      <empresa>Online Diecast Creations Co.</empresa>
+      <contacto>
+         <nombre>Dorothy</nombre>
+         <apellido>Young</apellido>
+         <telefono>6035558647</telefono>
+      </contacto>
+      <direccion>
+         <calle>2304 Long Airport Avenue</calle>
+         <ciudad>Nashua</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1216</vendedor_id>
+         <limite_credito>114200.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>379</id>
+      <empresa>Collectables For Less Inc.</empresa>
+      <contacto>
+         <nombre>Allen</nombre>
+         <apellido>Nelson</apellido>
+         <telefono>6175558555</telefono>
+      </contacto>
+      <direccion>
+         <calle>7825 Douglas Av.</calle>
+         <ciudad>Brickhaven</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1188</vendedor_id>
+         <limite_credito>70700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>379</id>
+      <empresa>Collectables For Less Inc.</empresa>
+      <contacto>
+         <nombre>Allen</nombre>
+         <apellido>Nelson</apellido>
+         <telefono>6175558555</telefono>
+      </contacto>
+      <direccion>
+         <calle>7825 Douglas Av.</calle>
+         <ciudad>Brickhaven</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1188</vendedor_id>
+         <limite_credito>70700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>379</id>
+      <empresa>Collectables For Less Inc.</empresa>
+      <contacto>
+         <nombre>Allen</nombre>
+         <apellido>Nelson</apellido>
+         <telefono>6175558555</telefono>
+      </contacto>
+      <direccion>
+         <calle>7825 Douglas Av.</calle>
+         <ciudad>Brickhaven</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1188</vendedor_id>
+         <limite_credito>70700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>381</id>
+      <empresa>Royale Belge</empresa>
+      <contacto>
+         <nombre>Pascale </nombre>
+         <apellido>Cartrain</apellido>
+         <telefono>(071) 23 67 2555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Boulevard Tirou, 255</calle>
+         <ciudad>Charleroi</ciudad>
+         <pais>Belgium</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>23500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>381</id>
+      <empresa>Royale Belge</empresa>
+      <contacto>
+         <nombre>Pascale </nombre>
+         <apellido>Cartrain</apellido>
+         <telefono>(071) 23 67 2555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Boulevard Tirou, 255</calle>
+         <ciudad>Charleroi</ciudad>
+         <pais>Belgium</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>23500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>381</id>
+      <empresa>Royale Belge</empresa>
+      <contacto>
+         <nombre>Pascale </nombre>
+         <apellido>Cartrain</apellido>
+         <telefono>(071) 23 67 2555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Boulevard Tirou, 255</calle>
+         <ciudad>Charleroi</ciudad>
+         <pais>Belgium</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>23500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>381</id>
+      <empresa>Royale Belge</empresa>
+      <contacto>
+         <nombre>Pascale </nombre>
+         <apellido>Cartrain</apellido>
+         <telefono>(071) 23 67 2555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Boulevard Tirou, 255</calle>
+         <ciudad>Charleroi</ciudad>
+         <pais>Belgium</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>23500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>382</id>
+      <empresa>Salzburg Collectables</empresa>
+      <contacto>
+         <nombre>Georg </nombre>
+         <apellido>Pipps</apellido>
+         <telefono>6562-9555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Geislweg 14</calle>
+         <ciudad>Salzburg</ciudad>
+         <pais>Austria</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>71700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>382</id>
+      <empresa>Salzburg Collectables</empresa>
+      <contacto>
+         <nombre>Georg </nombre>
+         <apellido>Pipps</apellido>
+         <telefono>6562-9555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Geislweg 14</calle>
+         <ciudad>Salzburg</ciudad>
+         <pais>Austria</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>71700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>382</id>
+      <empresa>Salzburg Collectables</empresa>
+      <contacto>
+         <nombre>Georg </nombre>
+         <apellido>Pipps</apellido>
+         <telefono>6562-9555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Geislweg 14</calle>
+         <ciudad>Salzburg</ciudad>
+         <pais>Austria</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>71700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>385</id>
+      <empresa>Cruz and Sons Co.</empresa>
+      <contacto>
+         <nombre>Arnold</nombre>
+         <apellido>Cruz</apellido>
+         <telefono>+63 2 555 3587</telefono>
+      </contacto>
+      <direccion>
+         <calle>15 McCallum Street</calle>
+         <ciudad>Makati City</ciudad>
+         <pais>Philippines</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1621</vendedor_id>
+         <limite_credito>81500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>385</id>
+      <empresa>Cruz and Sons Co.</empresa>
+      <contacto>
+         <nombre>Arnold</nombre>
+         <apellido>Cruz</apellido>
+         <telefono>+63 2 555 3587</telefono>
+      </contacto>
+      <direccion>
+         <calle>15 McCallum Street</calle>
+         <ciudad>Makati City</ciudad>
+         <pais>Philippines</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1621</vendedor_id>
+         <limite_credito>81500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>385</id>
+      <empresa>Cruz and Sons Co.</empresa>
+      <contacto>
+         <nombre>Arnold</nombre>
+         <apellido>Cruz</apellido>
+         <telefono>+63 2 555 3587</telefono>
+      </contacto>
+      <direccion>
+         <calle>15 McCallum Street</calle>
+         <ciudad>Makati City</ciudad>
+         <pais>Philippines</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1621</vendedor_id>
+         <limite_credito>81500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>386</id>
+      <empresa>L'ordine Souveniers</empresa>
+      <contacto>
+         <nombre>Maurizio </nombre>
+         <apellido>Moroni</apellido>
+         <telefono>0522-556555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Strada Provinciale 124</calle>
+         <ciudad>Reggio Emilia</ciudad>
+         <pais>Italy</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>121400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>386</id>
+      <empresa>L'ordine Souveniers</empresa>
+      <contacto>
+         <nombre>Maurizio </nombre>
+         <apellido>Moroni</apellido>
+         <telefono>0522-556555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Strada Provinciale 124</calle>
+         <ciudad>Reggio Emilia</ciudad>
+         <pais>Italy</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>121400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>398</id>
+      <empresa>Tokyo Collectables, Ltd</empresa>
+      <contacto>
+         <nombre>Akiko</nombre>
+         <apellido>Shimamura</apellido>
+         <telefono>+81 3 3584 0555</telefono>
+      </contacto>
+      <direccion>
+         <calle>2-2-8 Roppongi</calle>
+         <ciudad>Minato-ku</ciudad>
+         <pais>Japan</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1621</vendedor_id>
+         <limite_credito>94400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>398</id>
+      <empresa>Tokyo Collectables, Ltd</empresa>
+      <contacto>
+         <nombre>Akiko</nombre>
+         <apellido>Shimamura</apellido>
+         <telefono>+81 3 3584 0555</telefono>
+      </contacto>
+      <direccion>
+         <calle>2-2-8 Roppongi</calle>
+         <ciudad>Minato-ku</ciudad>
+         <pais>Japan</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1621</vendedor_id>
+         <limite_credito>94400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>398</id>
+      <empresa>Tokyo Collectables, Ltd</empresa>
+      <contacto>
+         <nombre>Akiko</nombre>
+         <apellido>Shimamura</apellido>
+         <telefono>+81 3 3584 0555</telefono>
+      </contacto>
+      <direccion>
+         <calle>2-2-8 Roppongi</calle>
+         <ciudad>Minato-ku</ciudad>
+         <pais>Japan</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1621</vendedor_id>
+         <limite_credito>94400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>398</id>
+      <empresa>Tokyo Collectables, Ltd</empresa>
+      <contacto>
+         <nombre>Akiko</nombre>
+         <apellido>Shimamura</apellido>
+         <telefono>+81 3 3584 0555</telefono>
+      </contacto>
+      <direccion>
+         <calle>2-2-8 Roppongi</calle>
+         <ciudad>Minato-ku</ciudad>
+         <pais>Japan</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1621</vendedor_id>
+         <limite_credito>94400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>406</id>
+      <empresa>Auto Canal+ Petit</empresa>
+      <contacto>
+         <nombre>Dominique</nombre>
+         <apellido>Perrier</apellido>
+         <telefono>(1) 47.55.6555</telefono>
+      </contacto>
+      <direccion>
+         <calle>25, rue Lauriston</calle>
+         <ciudad>Paris</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>95000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>406</id>
+      <empresa>Auto Canal+ Petit</empresa>
+      <contacto>
+         <nombre>Dominique</nombre>
+         <apellido>Perrier</apellido>
+         <telefono>(1) 47.55.6555</telefono>
+      </contacto>
+      <direccion>
+         <calle>25, rue Lauriston</calle>
+         <ciudad>Paris</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>95000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>406</id>
+      <empresa>Auto Canal+ Petit</empresa>
+      <contacto>
+         <nombre>Dominique</nombre>
+         <apellido>Perrier</apellido>
+         <telefono>(1) 47.55.6555</telefono>
+      </contacto>
+      <direccion>
+         <calle>25, rue Lauriston</calle>
+         <ciudad>Paris</ciudad>
+         <pais>France</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1337</vendedor_id>
+         <limite_credito>95000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>412</id>
+      <empresa>Extreme Desk Decorations, Ltd</empresa>
+      <contacto>
+         <nombre>Sarah</nombre>
+         <apellido>McRoy</apellido>
+         <telefono>04 499 9555</telefono>
+      </contacto>
+      <direccion>
+         <calle>101 Lambton Quay</calle>
+         <ciudad>Wellington</ciudad>
+         <pais>New Zealand</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1612</vendedor_id>
+         <limite_credito>86800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>412</id>
+      <empresa>Extreme Desk Decorations, Ltd</empresa>
+      <contacto>
+         <nombre>Sarah</nombre>
+         <apellido>McRoy</apellido>
+         <telefono>04 499 9555</telefono>
+      </contacto>
+      <direccion>
+         <calle>101 Lambton Quay</calle>
+         <ciudad>Wellington</ciudad>
+         <pais>New Zealand</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1612</vendedor_id>
+         <limite_credito>86800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>415</id>
+      <empresa>Bavarian Collectables Imports, Co.</empresa>
+      <contacto>
+         <nombre>Michael</nombre>
+         <apellido>Donnermeyer</apellido>
+         <telefono> +49 89 61 08 9555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Hansastr. 15</calle>
+         <ciudad>Munich</ciudad>
+         <pais>Germany</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>77000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>424</id>
+      <empresa>Classic Legends Inc.</empresa>
+      <contacto>
+         <nombre>Maria</nombre>
+         <apellido>Hernandez</apellido>
+         <telefono>2125558493</telefono>
+      </contacto>
+      <direccion>
+         <calle>5905 Pompton St.</calle>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>67500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>424</id>
+      <empresa>Classic Legends Inc.</empresa>
+      <contacto>
+         <nombre>Maria</nombre>
+         <apellido>Hernandez</apellido>
+         <telefono>2125558493</telefono>
+      </contacto>
+      <direccion>
+         <calle>5905 Pompton St.</calle>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>67500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>424</id>
+      <empresa>Classic Legends Inc.</empresa>
+      <contacto>
+         <nombre>Maria</nombre>
+         <apellido>Hernandez</apellido>
+         <telefono>2125558493</telefono>
+      </contacto>
+      <direccion>
+         <calle>5905 Pompton St.</calle>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>67500.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>447</id>
+      <empresa>Gift Ideas Corp.</empresa>
+      <contacto>
+         <nombre>Dan</nombre>
+         <apellido>Lewis</apellido>
+         <telefono>2035554407</telefono>
+      </contacto>
+      <direccion>
+         <calle>2440 Pompton St.</calle>
+         <ciudad>Glendale</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>49700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>447</id>
+      <empresa>Gift Ideas Corp.</empresa>
+      <contacto>
+         <nombre>Dan</nombre>
+         <apellido>Lewis</apellido>
+         <telefono>2035554407</telefono>
+      </contacto>
+      <direccion>
+         <calle>2440 Pompton St.</calle>
+         <ciudad>Glendale</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>49700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>447</id>
+      <empresa>Gift Ideas Corp.</empresa>
+      <contacto>
+         <nombre>Dan</nombre>
+         <apellido>Lewis</apellido>
+         <telefono>2035554407</telefono>
+      </contacto>
+      <direccion>
+         <calle>2440 Pompton St.</calle>
+         <ciudad>Glendale</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>49700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>448</id>
+      <empresa>Scandinavian Gift Ideas</empresa>
+      <contacto>
+         <nombre>Martha</nombre>
+         <apellido>Larsson</apellido>
+         <telefono>0695-34 6555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Åkergatan 24</calle>
+         <ciudad>Bräcke</ciudad>
+         <pais>Sweden</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>116400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>448</id>
+      <empresa>Scandinavian Gift Ideas</empresa>
+      <contacto>
+         <nombre>Martha</nombre>
+         <apellido>Larsson</apellido>
+         <telefono>0695-34 6555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Åkergatan 24</calle>
+         <ciudad>Bräcke</ciudad>
+         <pais>Sweden</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1504</vendedor_id>
+         <limite_credito>116400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>450</id>
+      <empresa>The Sharp Gifts Warehouse</empresa>
+      <contacto>
+         <nombre>Sue</nombre>
+         <apellido>Frick</apellido>
+         <telefono>4085553659</telefono>
+      </contacto>
+      <direccion>
+         <calle>3086 Ingle Ln.</calle>
+         <ciudad>San Jose</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>77600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>452</id>
+      <empresa>Mini Auto Werke</empresa>
+      <contacto>
+         <nombre>Roland </nombre>
+         <apellido>Mendel</apellido>
+         <telefono>7675-3555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Kirchgasse 6</calle>
+         <ciudad>Graz</ciudad>
+         <pais>Austria</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>45300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>452</id>
+      <empresa>Mini Auto Werke</empresa>
+      <contacto>
+         <nombre>Roland </nombre>
+         <apellido>Mendel</apellido>
+         <telefono>7675-3555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Kirchgasse 6</calle>
+         <ciudad>Graz</ciudad>
+         <pais>Austria</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>45300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>452</id>
+      <empresa>Mini Auto Werke</empresa>
+      <contacto>
+         <nombre>Roland </nombre>
+         <apellido>Mendel</apellido>
+         <telefono>7675-3555</telefono>
+      </contacto>
+      <direccion>
+         <calle>Kirchgasse 6</calle>
+         <ciudad>Graz</ciudad>
+         <pais>Austria</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>45300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>455</id>
+      <empresa>Super Scale Inc.</empresa>
+      <contacto>
+         <nombre>Leslie</nombre>
+         <apellido>Murphy</apellido>
+         <telefono>2035559545</telefono>
+      </contacto>
+      <direccion>
+         <calle>567 North Pendale Street</calle>
+         <ciudad>New Haven</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>95400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>455</id>
+      <empresa>Super Scale Inc.</empresa>
+      <contacto>
+         <nombre>Leslie</nombre>
+         <apellido>Murphy</apellido>
+         <telefono>2035559545</telefono>
+      </contacto>
+      <direccion>
+         <calle>567 North Pendale Street</calle>
+         <ciudad>New Haven</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>95400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>456</id>
+      <empresa>Microscale Inc.</empresa>
+      <contacto>
+         <nombre>Yu</nombre>
+         <apellido>Choi</apellido>
+         <telefono>2125551957</telefono>
+      </contacto>
+      <direccion>
+         <calle>5290 North Pendale Street</calle>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>39800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>456</id>
+      <empresa>Microscale Inc.</empresa>
+      <contacto>
+         <nombre>Yu</nombre>
+         <apellido>Choi</apellido>
+         <telefono>2125551957</telefono>
+      </contacto>
+      <direccion>
+         <calle>5290 North Pendale Street</calle>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1286</vendedor_id>
+         <limite_credito>39800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>458</id>
+      <empresa>Corrida Auto Replicas, Ltd</empresa>
+      <contacto>
+         <nombre>Martín </nombre>
+         <apellido>Sommer</apellido>
+         <telefono>(91) 555 22 82</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Araquil, 67</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1702</vendedor_id>
+         <limite_credito>104600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>458</id>
+      <empresa>Corrida Auto Replicas, Ltd</empresa>
+      <contacto>
+         <nombre>Martín </nombre>
+         <apellido>Sommer</apellido>
+         <telefono>(91) 555 22 82</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Araquil, 67</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1702</vendedor_id>
+         <limite_credito>104600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>458</id>
+      <empresa>Corrida Auto Replicas, Ltd</empresa>
+      <contacto>
+         <nombre>Martín </nombre>
+         <apellido>Sommer</apellido>
+         <telefono>(91) 555 22 82</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Araquil, 67</calle>
+         <ciudad>Madrid</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1702</vendedor_id>
+         <limite_credito>104600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>462</id>
+      <empresa>FunGiftIdeas.com</empresa>
+      <contacto>
+         <nombre>Violeta</nombre>
+         <apellido>Benitez</apellido>
+         <telefono>5085552555</telefono>
+      </contacto>
+      <direccion>
+         <calle>1785 First Street</calle>
+         <ciudad>New Bedford</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1216</vendedor_id>
+         <limite_credito>85800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>462</id>
+      <empresa>FunGiftIdeas.com</empresa>
+      <contacto>
+         <nombre>Violeta</nombre>
+         <apellido>Benitez</apellido>
+         <telefono>5085552555</telefono>
+      </contacto>
+      <direccion>
+         <calle>1785 First Street</calle>
+         <ciudad>New Bedford</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1216</vendedor_id>
+         <limite_credito>85800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>462</id>
+      <empresa>FunGiftIdeas.com</empresa>
+      <contacto>
+         <nombre>Violeta</nombre>
+         <apellido>Benitez</apellido>
+         <telefono>5085552555</telefono>
+      </contacto>
+      <direccion>
+         <calle>1785 First Street</calle>
+         <ciudad>New Bedford</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1216</vendedor_id>
+         <limite_credito>85800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>471</id>
+      <empresa>Australian Collectables, Ltd</empresa>
+      <contacto>
+         <nombre>Sean</nombre>
+         <apellido>Clenahan</apellido>
+         <telefono>61-9-3844-6555</telefono>
+      </contacto>
+      <direccion>
+         <calle>7 Allen Street</calle>
+         <ciudad>Glen Waverly</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>60300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>471</id>
+      <empresa>Australian Collectables, Ltd</empresa>
+      <contacto>
+         <nombre>Sean</nombre>
+         <apellido>Clenahan</apellido>
+         <telefono>61-9-3844-6555</telefono>
+      </contacto>
+      <direccion>
+         <calle>7 Allen Street</calle>
+         <ciudad>Glen Waverly</ciudad>
+         <pais>Australia</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1611</vendedor_id>
+         <limite_credito>60300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>473</id>
+      <empresa>Frau da Collezione</empresa>
+      <contacto>
+         <nombre>Franco</nombre>
+         <apellido>Ricotti</apellido>
+         <telefono>+39 022515555</telefono>
+      </contacto>
+      <direccion>
+         <calle>20093 Cologno Monzese</calle>
+         <ciudad>Milan</ciudad>
+         <pais>Italy</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>34800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>473</id>
+      <empresa>Frau da Collezione</empresa>
+      <contacto>
+         <nombre>Franco</nombre>
+         <apellido>Ricotti</apellido>
+         <telefono>+39 022515555</telefono>
+      </contacto>
+      <direccion>
+         <calle>20093 Cologno Monzese</calle>
+         <ciudad>Milan</ciudad>
+         <pais>Italy</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1401</vendedor_id>
+         <limite_credito>34800.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>475</id>
+      <empresa>West Coast Collectables Co.</empresa>
+      <contacto>
+         <nombre>Steve</nombre>
+         <apellido>Thompson</apellido>
+         <telefono>3105553722</telefono>
+      </contacto>
+      <direccion>
+         <calle>3675 Furth Circle</calle>
+         <ciudad>Burbank</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1166</vendedor_id>
+         <limite_credito>55400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>475</id>
+      <empresa>West Coast Collectables Co.</empresa>
+      <contacto>
+         <nombre>Steve</nombre>
+         <apellido>Thompson</apellido>
+         <telefono>3105553722</telefono>
+      </contacto>
+      <direccion>
+         <calle>3675 Furth Circle</calle>
+         <ciudad>Burbank</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1166</vendedor_id>
+         <limite_credito>55400.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>484</id>
+      <empresa>Iberia Gift Imports, Corp.</empresa>
+      <contacto>
+         <nombre>José Pedro </nombre>
+         <apellido>Roel</apellido>
+         <telefono>(95) 555 82 82</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Romero, 33</calle>
+         <ciudad>Sevilla</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1702</vendedor_id>
+         <limite_credito>65700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>484</id>
+      <empresa>Iberia Gift Imports, Corp.</empresa>
+      <contacto>
+         <nombre>José Pedro </nombre>
+         <apellido>Roel</apellido>
+         <telefono>(95) 555 82 82</telefono>
+      </contacto>
+      <direccion>
+         <calle>C/ Romero, 33</calle>
+         <ciudad>Sevilla</ciudad>
+         <pais>Spain</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1702</vendedor_id>
+         <limite_credito>65700.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>486</id>
+      <empresa>Motor Mint Distributors Inc.</empresa>
+      <contacto>
+         <nombre>Rosa</nombre>
+         <apellido>Salazar</apellido>
+         <telefono>2155559857</telefono>
+      </contacto>
+      <direccion>
+         <calle>11328 Douglas Av.</calle>
+         <ciudad>Philadelphia</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>72600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>486</id>
+      <empresa>Motor Mint Distributors Inc.</empresa>
+      <contacto>
+         <nombre>Rosa</nombre>
+         <apellido>Salazar</apellido>
+         <telefono>2155559857</telefono>
+      </contacto>
+      <direccion>
+         <calle>11328 Douglas Av.</calle>
+         <ciudad>Philadelphia</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>72600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>486</id>
+      <empresa>Motor Mint Distributors Inc.</empresa>
+      <contacto>
+         <nombre>Rosa</nombre>
+         <apellido>Salazar</apellido>
+         <telefono>2155559857</telefono>
+      </contacto>
+      <direccion>
+         <calle>11328 Douglas Av.</calle>
+         <ciudad>Philadelphia</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1323</vendedor_id>
+         <limite_credito>72600.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>487</id>
+      <empresa>Signal Collectibles Ltd.</empresa>
+      <contacto>
+         <nombre>Sue</nombre>
+         <apellido>Taylor</apellido>
+         <telefono>4155554312</telefono>
+      </contacto>
+      <direccion>
+         <calle>2793 Furth Circle</calle>
+         <ciudad>Brisbane</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>60300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>487</id>
+      <empresa>Signal Collectibles Ltd.</empresa>
+      <contacto>
+         <nombre>Sue</nombre>
+         <apellido>Taylor</apellido>
+         <telefono>4155554312</telefono>
+      </contacto>
+      <direccion>
+         <calle>2793 Furth Circle</calle>
+         <ciudad>Brisbane</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1165</vendedor_id>
+         <limite_credito>60300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>489</id>
+      <empresa>Double Decker Gift Stores, Ltd</empresa>
+      <contacto>
+         <nombre>Thomas </nombre>
+         <apellido>Smith</apellido>
+         <telefono>(171) 555-7555</telefono>
+      </contacto>
+      <direccion>
+         <calle>120 Hanover Sq.</calle>
+         <ciudad>London</ciudad>
+         <pais>UK</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>43300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>489</id>
+      <empresa>Double Decker Gift Stores, Ltd</empresa>
+      <contacto>
+         <nombre>Thomas </nombre>
+         <apellido>Smith</apellido>
+         <telefono>(171) 555-7555</telefono>
+      </contacto>
+      <direccion>
+         <calle>120 Hanover Sq.</calle>
+         <ciudad>London</ciudad>
+         <pais>UK</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1501</vendedor_id>
+         <limite_credito>43300.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>495</id>
+      <empresa>Diecast Collectables</empresa>
+      <contacto>
+         <nombre>Valarie</nombre>
+         <apellido>Franco</apellido>
+         <telefono>6175552555</telefono>
+      </contacto>
+      <direccion>
+         <calle>6251 Ingle Ln.</calle>
+         <ciudad>Boston</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1188</vendedor_id>
+         <limite_credito>85100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>495</id>
+      <empresa>Diecast Collectables</empresa>
+      <contacto>
+         <nombre>Valarie</nombre>
+         <apellido>Franco</apellido>
+         <telefono>6175552555</telefono>
+      </contacto>
+      <direccion>
+         <calle>6251 Ingle Ln.</calle>
+         <ciudad>Boston</ciudad>
+         <pais>USA</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1188</vendedor_id>
+         <limite_credito>85100.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>496</id>
+      <empresa>Kelly's Gift Shop</empresa>
+      <contacto>
+         <nombre>Tony</nombre>
+         <apellido>Snowden</apellido>
+         <telefono>+64 9 5555500</telefono>
+      </contacto>
+      <direccion>
+         <calle>Arenales 1938 3'A'</calle>
+         <ciudad>Auckland  </ciudad>
+         <pais>New Zealand</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1612</vendedor_id>
+         <limite_credito>110000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>496</id>
+      <empresa>Kelly's Gift Shop</empresa>
+      <contacto>
+         <nombre>Tony</nombre>
+         <apellido>Snowden</apellido>
+         <telefono>+64 9 5555500</telefono>
+      </contacto>
+      <direccion>
+         <calle>Arenales 1938 3'A'</calle>
+         <ciudad>Auckland  </ciudad>
+         <pais>New Zealand</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1612</vendedor_id>
+         <limite_credito>110000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+   <cliente>
+      <id>496</id>
+      <empresa>Kelly's Gift Shop</empresa>
+      <contacto>
+         <nombre>Tony</nombre>
+         <apellido>Snowden</apellido>
+         <telefono>+64 9 5555500</telefono>
+      </contacto>
+      <direccion>
+         <calle>Arenales 1938 3'A'</calle>
+         <ciudad>Auckland  </ciudad>
+         <pais>New Zealand</pais>
+      </direccion>
+      <datos_comerciales>
+         <vendedor_id>1612</vendedor_id>
+         <limite_credito>110000.00</limite_credito>
+      </datos_comerciales>
+   </cliente>
+</listado_clientes>
