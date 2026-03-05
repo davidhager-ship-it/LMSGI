@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Employees_a_HTML.xsl"?>
+<listado_empleados>
+   <empleado>
+      <id>1002</id>
+      <datos_personales>
+         <nombre>Diane</nombre>
+         <apellido>Murphy</apellido>
+         <email>dmurphy@classicmodelcars.com</email>
+         <extension>x5800</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>President</cargo>
+         <jefe_id>NULL</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>1</codigo_oficina>
+         <ciudad>San Francisco</ciudad>
+         <pais>USA</pais>
+         <telefono>+1 650 219 4782</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1056</id>
+      <datos_personales>
+         <nombre>Mary</nombre>
+         <apellido>Patterson</apellido>
+         <email>mpatterso@classicmodelcars.com</email>
+         <extension>x4611</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>VP Sales</cargo>
+         <jefe_id>1002</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>1</codigo_oficina>
+         <ciudad>San Francisco</ciudad>
+         <pais>USA</pais>
+         <telefono>+1 650 219 4782</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1076</id>
+      <datos_personales>
+         <nombre>Jeff</nombre>
+         <apellido>Firrelli</apellido>
+         <email>jfirrelli@classicmodelcars.com</email>
+         <extension>x9273</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>VP Marketing</cargo>
+         <jefe_id>1002</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>1</codigo_oficina>
+         <ciudad>San Francisco</ciudad>
+         <pais>USA</pais>
+         <telefono>+1 650 219 4782</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1143</id>
+      <datos_personales>
+         <nombre>Anthony</nombre>
+         <apellido>Bow</apellido>
+         <email>abow@classicmodelcars.com</email>
+         <extension>x5428</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Manager (NA)</cargo>
+         <jefe_id>1056</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>1</codigo_oficina>
+         <ciudad>San Francisco</ciudad>
+         <pais>USA</pais>
+         <telefono>+1 650 219 4782</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1165</id>
+      <datos_personales>
+         <nombre>Leslie</nombre>
+         <apellido>Jennings</apellido>
+         <email>ljennings@classicmodelcars.com</email>
+         <extension>x3291</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1143</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>1</codigo_oficina>
+         <ciudad>San Francisco</ciudad>
+         <pais>USA</pais>
+         <telefono>+1 650 219 4782</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1166</id>
+      <datos_personales>
+         <nombre>Leslie</nombre>
+         <apellido>Thompson</apellido>
+         <email>lthompson@classicmodelcars.com</email>
+         <extension>x4065</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1143</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>1</codigo_oficina>
+         <ciudad>San Francisco</ciudad>
+         <pais>USA</pais>
+         <telefono>+1 650 219 4782</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1188</id>
+      <datos_personales>
+         <nombre>Julie</nombre>
+         <apellido>Firrelli</apellido>
+         <email>jfirrelli@classicmodelcars.com</email>
+         <extension>x2173</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1143</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>2</codigo_oficina>
+         <ciudad>Boston</ciudad>
+         <pais>USA</pais>
+         <telefono>+1 215 837 0825</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1216</id>
+      <datos_personales>
+         <nombre>Steve</nombre>
+         <apellido>Patterson</apellido>
+         <email>spatterson@classicmodelcars.com</email>
+         <extension>x4334</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1143</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>2</codigo_oficina>
+         <ciudad>Boston</ciudad>
+         <pais>USA</pais>
+         <telefono>+1 215 837 0825</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1286</id>
+      <datos_personales>
+         <nombre>Foon Yue</nombre>
+         <apellido>Tseng</apellido>
+         <email>ftseng@classicmodelcars.com</email>
+         <extension>x2248</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1143</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>3</codigo_oficina>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+         <telefono>+1 212 555 3000</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1323</id>
+      <datos_personales>
+         <nombre>George</nombre>
+         <apellido>Vanauf</apellido>
+         <email>gvanauf@classicmodelcars.com</email>
+         <extension>x4102</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1143</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>3</codigo_oficina>
+         <ciudad>NYC</ciudad>
+         <pais>USA</pais>
+         <telefono>+1 212 555 3000</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1102</id>
+      <datos_personales>
+         <nombre>Gerard</nombre>
+         <apellido>Bondur</apellido>
+         <email>gbondur@classicmodelcars.com</email>
+         <extension>x5408</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sale Manager (EMEA)</cargo>
+         <jefe_id>1056</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>4</codigo_oficina>
+         <ciudad>Paris</ciudad>
+         <pais>France</pais>
+         <telefono>+33 14 723 4404</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1337</id>
+      <datos_personales>
+         <nombre>Loui</nombre>
+         <apellido>Bondur</apellido>
+         <email>lbondur@classicmodelcars.com</email>
+         <extension>x6493</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1102</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>4</codigo_oficina>
+         <ciudad>Paris</ciudad>
+         <pais>France</pais>
+         <telefono>+33 14 723 4404</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1370</id>
+      <datos_personales>
+         <nombre>Gerard</nombre>
+         <apellido>Hernandez</apellido>
+         <email>ghernande@classicmodelcars.com</email>
+         <extension>x2028</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1102</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>4</codigo_oficina>
+         <ciudad>Paris</ciudad>
+         <pais>France</pais>
+         <telefono>+33 14 723 4404</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1401</id>
+      <datos_personales>
+         <nombre>Pamela</nombre>
+         <apellido>Castillo</apellido>
+         <email>pcastillo@classicmodelcars.com</email>
+         <extension>x2759</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1102</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>4</codigo_oficina>
+         <ciudad>Paris</ciudad>
+         <pais>France</pais>
+         <telefono>+33 14 723 4404</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1702</id>
+      <datos_personales>
+         <nombre>Martin</nombre>
+         <apellido>Gerard</apellido>
+         <email>mgerard@classicmodelcars.com</email>
+         <extension>x2312</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1102</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>4</codigo_oficina>
+         <ciudad>Paris</ciudad>
+         <pais>France</pais>
+         <telefono>+33 14 723 4404</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1621</id>
+      <datos_personales>
+         <nombre>Mami</nombre>
+         <apellido>Nishi</apellido>
+         <email>mnishi@classicmodelcars.com</email>
+         <extension>x101</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1056</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>5</codigo_oficina>
+         <ciudad>Tokyo</ciudad>
+         <pais>Japan</pais>
+         <telefono>+81 33 224 5000</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1625</id>
+      <datos_personales>
+         <nombre>Yoshimi</nombre>
+         <apellido>Kato</apellido>
+         <email>ykato@classicmodelcars.com</email>
+         <extension>x102</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1621</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>5</codigo_oficina>
+         <ciudad>Tokyo</ciudad>
+         <pais>Japan</pais>
+         <telefono>+81 33 224 5000</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1088</id>
+      <datos_personales>
+         <nombre>William</nombre>
+         <apellido>Patterson</apellido>
+         <email>wpatterson@classicmodelcars.com</email>
+         <extension>x4871</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Manager (APAC)</cargo>
+         <jefe_id>1056</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>6</codigo_oficina>
+         <ciudad>Sydney</ciudad>
+         <pais>Australia</pais>
+         <telefono>+61 2 9264 2451</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1611</id>
+      <datos_personales>
+         <nombre>Andy</nombre>
+         <apellido>Fixter</apellido>
+         <email>afixter@classicmodelcars.com</email>
+         <extension>x101</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1088</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>6</codigo_oficina>
+         <ciudad>Sydney</ciudad>
+         <pais>Australia</pais>
+         <telefono>+61 2 9264 2451</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1612</id>
+      <datos_personales>
+         <nombre>Peter</nombre>
+         <apellido>Marsh</apellido>
+         <email>pmarsh@classicmodelcars.com</email>
+         <extension>x102</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1088</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>6</codigo_oficina>
+         <ciudad>Sydney</ciudad>
+         <pais>Australia</pais>
+         <telefono>+61 2 9264 2451</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1619</id>
+      <datos_personales>
+         <nombre>Tom</nombre>
+         <apellido>King</apellido>
+         <email>tking@classicmodelcars.com</email>
+         <extension>x103</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1088</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>6</codigo_oficina>
+         <ciudad>Sydney</ciudad>
+         <pais>Australia</pais>
+         <telefono>+61 2 9264 2451</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1501</id>
+      <datos_personales>
+         <nombre>Larry</nombre>
+         <apellido>Bott</apellido>
+         <email>lbott@classicmodelcars.com</email>
+         <extension>x2311</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1102</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>7</codigo_oficina>
+         <ciudad>London</ciudad>
+         <pais>UK</pais>
+         <telefono>+44 20 7877 2041</telefono>
+      </oficina>
+   </empleado>
+   <empleado>
+      <id>1504</id>
+      <datos_personales>
+         <nombre>Barry</nombre>
+         <apellido>Jones</apellido>
+         <email>bjones@classicmodelcars.com</email>
+         <extension>x102</extension>
+      </datos_personales>
+      <puesto>
+         <cargo>Sales Rep</cargo>
+         <jefe_id>1102</jefe_id>
+      </puesto>
+      <oficina>
+         <codigo_oficina>7</codigo_oficina>
+         <ciudad>London</ciudad>
+         <pais>UK</pais>
+         <telefono>+44 20 7877 2041</telefono>
+      </oficina>
+   </empleado>
+</listado_empleados>
