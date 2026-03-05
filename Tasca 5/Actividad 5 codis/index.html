@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Offices</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Offices</h1>
+
+<div id="offices"></div>
+
+<script>
+
+function loadOffices(data){
+
+    let container = document.getElementById("offices");
+
+    data.forEach(function(office){
+
+        let card = document.createElement("div");
+        card.className = "office";
+
+        card.innerHTML = `
+            <img src="${office.picture}">
+            <h2>${office.city}</h2>
+            <p><b>Phone:</b> ${office.phone}</p>
+            <p>${office.addressLine1}</p>
+            <p>${office.addressLine2 ?? ""}</p>
+            <p>${office.postalCode}</p>
+            <p>${office.country}</p>
+            <p><b>Territory:</b> ${office.territory}</p>
+        `;
+
+        container.appendChild(card);
+
+    });
+
+}
+
+</script>
+
+<script src="offices.js"></script>
+
+</body>
+</html>

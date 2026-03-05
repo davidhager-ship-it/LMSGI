@@ -1,0 +1,29 @@
+body{
+font-family: Arial;
+background:#f4f4f4;
+text-align:center;
+}
+
+#offices{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:20px;
+}
+
+.office{
+background:white;
+width:300px;
+padding:15px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+
+.office img{
+width:100%;
+border-radius:10px;
+}
+
+.office h2{
+margin:10px 0;
+}
